@@ -21,6 +21,7 @@ struct PracticeView: View {
                     controls
                 }
                 .padding(20)
+                .frame(maxWidth: 760)
             }
             .navigationTitle("Practice")
             .navigationBarTitleDisplayMode(.inline)

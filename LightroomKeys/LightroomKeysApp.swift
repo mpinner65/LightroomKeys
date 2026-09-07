@@ -36,6 +36,8 @@ private struct AppRootView: View {
 }
 
 private struct LaunchHandoffView: View {
+    @Environment(\.horizontalSizeClass) private var horizontalSizeClass
+
     var body: some View {
         ZStack {
             Color(red: 0.031, green: 0.067, blue: 0.114)
@@ -44,7 +46,10 @@ private struct LaunchHandoffView: View {
             Image("LaunchScreenIcon")
                 .resizable()
                 .scaledToFit()
-                .frame(width: 260, height: 260)
+                .frame(
+                    width: horizontalSizeClass == .regular ? 320 : 260,
+                    height: horizontalSizeClass == .regular ? 320 : 260
+                )
                 .accessibilityHidden(true)
         }
     }

@@ -1,6 +1,7 @@
 import SwiftUI
 
 struct ContentView: View {
+    @Environment(\.horizontalSizeClass) private var horizontalSizeClass
     @State private var query = ""
     @State private var selectedCategory: ShortcutCategory = .all
     @State private var platform: ShortcutPlatform = .macOS
@@ -26,6 +27,8 @@ struct ContentView: View {
                         resultHeader
                         shortcutList
                     }
+                    .frame(maxWidth: horizontalSizeClass == .regular ? 1240 : .infinity)
+                    .frame(maxWidth: .infinity)
                     .padding(.bottom, 32)
                 }
                 .scrollDismissesKeyboard(.interactively)
@@ -69,13 +72,24 @@ struct ContentView: View {
             ContentUnavailableView.search(text: query)
                 .padding(.top, 48)
         } else {
-            LazyVStack(spacing: 10) {
+            LazyVGrid(columns: shortcutColumns, spacing: 12) {
                 ForEach(filteredShortcuts) { shortcut in
                     ShortcutCard(shortcut: shortcut, platform: platform)
                 }
             }
-            .padding(.horizontal, 16)
+            .padding(.horizontal, horizontalSizeClass == .regular ? 24 : 16)
         }
+    }
+
+    private var shortcutColumns: [GridItem] {
+        if horizontalSizeClass == .regular {
+            return [
+                GridItem(.flexible(), spacing: 12, alignment: .top),
+                GridItem(.flexible(), spacing: 12, alignment: .top)
+            ]
+        }
+
+        return [GridItem(.flexible())]
     }
 
     @ToolbarContentBuilder
@@ -90,6 +104,9 @@ struct ContentView: View {
                         Text(platform.rawValue).tag(platform)
                     }
                 }
+                Divider()
+                Link("Support", destination: URL(string: "https://mattpinner.com/lightroom-keys-support")!)
+                Link("Privacy Policy", destination: URL(string: "https://mattpinner.com/lightroom-keys-privacy")!)
             } label: {
                 Label(platform.rawValue, systemImage: platform == .macOS ? "command" : "keyboard")
                     .labelStyle(.iconOnly)
