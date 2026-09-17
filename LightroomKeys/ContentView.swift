@@ -38,6 +38,14 @@ struct ContentView: View {
                         CategoryStrip(selection: $selectedCategory, categories: application.categories)
                         resultHeader
                         shortcutList
+                        VStack(alignment: .leading, spacing: 8) {
+                            Text("Independent shortcut reference for Adobe Lightroom Classic and Adobe Photoshop.")
+                            Text("Not affiliated with, sponsored by or endorsed by Adobe.")
+                            Text("Adobe, Lightroom and Photoshop are either registered trademarks or trademarks of Adobe in the United States and/or other countries.")
+                        }
+                        .font(.footnote)
+                        .foregroundStyle(.secondary)
+                        .padding(.horizontal, 24)
                     }
                     .frame(maxWidth: horizontalSizeClass == .regular ? 1240 : .infinity)
                     .frame(maxWidth: .infinity)
@@ -45,7 +53,7 @@ struct ContentView: View {
                 }
                 .scrollDismissesKeyboard(.interactively)
             }
-            .navigationTitle("Lightroom Keys")
+            .navigationTitle("Photo Shortcut Coach")
             .navigationBarTitleDisplayMode(.inline)
             .searchable(text: $query, prompt: "Search actions or keys")
             .toolbar { toolbarContent }
@@ -109,7 +117,7 @@ struct ContentView: View {
     @ToolbarContentBuilder
     private var toolbarContent: some ToolbarContent {
         ToolbarItem(placement: .topBarLeading) {
-            LightroomMark(label: application == .lightroom ? "Lr" : "Ps")
+            ShortcutCoachMark()
         }
         ToolbarItem(placement: .topBarTrailing) {
             Menu {
@@ -213,10 +221,9 @@ private struct CategoryStrip: View {
     }
 }
 
-struct LightroomMark: View {
-    var label = "Lr"
+struct ShortcutCoachMark: View {
     var body: some View {
-        Text(label)
+        Image(systemName: "keyboard")
             .font(.caption.bold())
             .foregroundStyle(.cyan)
             .frame(width: 30, height: 30)

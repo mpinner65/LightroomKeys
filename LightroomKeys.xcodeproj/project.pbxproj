@@ -19,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		241D6BC03053C89700622E08 /* Shortcut 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Shortcut 2.swift"; sourceTree = "<group>"; };
+		247229D3305BA79E0037B837 /* LightroomKeys.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = LightroomKeys.xcodeproj; sourceTree = SOURCE_ROOT; };
 		24A127FB305A6A4A00A25481 /* Shortcut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shortcut.swift; sourceTree = "<group>"; };
 		24E9BC21305B8F0C000B13B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		A20000000000000000000001 /* LightroomKeysApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LightroomKeysApp.swift; sourceTree = "<group>"; };
@@ -42,6 +43,11 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		247229D4305BA79E0037B837 /* Products */ = {
+			isa = PBXGroup;
+			name = Products;
+			sourceTree = "<group>";
+		};
 		A40000000000000000000001 = {
 			isa = PBXGroup;
 			children = (
@@ -63,6 +69,7 @@
 				A20000000000000000000005 /* PracticeView.swift */,
 				A20000000000000000000006 /* Assets.xcassets */,
 				A20000000000000000000008 /* LaunchScreen.storyboard */,
+				247229D3305BA79E0037B837 /* LightroomKeys.xcodeproj */,
 			);
 			path = LightroomKeys;
 			sourceTree = "<group>";
@@ -121,6 +128,12 @@
 			mainGroup = A40000000000000000000001;
 			productRefGroup = A40000000000000000000003 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 247229D4305BA79E0037B837 /* Products */;
+					ProjectRef = 247229D3305BA79E0037B837 /* LightroomKeys.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				A50000000000000000000001 /* LightroomKeys */,
@@ -256,7 +269,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = LightroomKeys/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Lightroom Keys";
+				INFOPLIST_KEY_CFBundleDisplayName = "Photo Shortcut Coach";
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.photography";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -290,7 +303,7 @@
 				DEVELOPMENT_TEAM = 5TPR6W4MKP;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = LightroomKeys/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Lightroom Keys";
+				INFOPLIST_KEY_CFBundleDisplayName = "Photo Shortcut Coach";
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.photography";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;

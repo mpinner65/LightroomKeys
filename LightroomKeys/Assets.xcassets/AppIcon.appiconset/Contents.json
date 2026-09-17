@@ -1,14 +1,14 @@
 {
-  "images" : [
+  "images": [
     {
-      "filename" : "Codex Image 31 Aug 2026, 15_18_12.png",
-      "idiom" : "universal",
-      "platform" : "ios",
-      "size" : "1024x1024"
+      "filename": "PhotoShortcutCoach.png",
+      "idiom": "universal",
+      "platform": "ios",
+      "size": "1024x1024"
     }
   ],
-  "info" : {
-    "author" : "xcode",
-    "version" : 1
+  "info": {
+    "author": "xcode",
+    "version": 1
   }
 }
