@@ -7,24 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		24A127FC305A6A4A00A25481 /* Shortcut.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24A127FB305A6A4A00A25481 /* Shortcut.swift */; };
 		A10000000000000000000001 /* LightroomKeysApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000000000000000000001 /* LightroomKeysApp.swift */; };
 		A10000000000000000000002 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000000000000000000002 /* ContentView.swift */; };
-		A10000000000000000000003 /* Shortcut.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000000000000000000003 /* Shortcut.swift */; };
 		A10000000000000000000004 /* ShortcutCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000000000000000000004 /* ShortcutCard.swift */; };
 		A10000000000000000000005 /* PracticeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000000000000000000005 /* PracticeView.swift */; };
 		A10000000000000000000006 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A20000000000000000000006 /* Assets.xcassets */; };
 		A10000000000000000000007 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A20000000000000000000008 /* LaunchScreen.storyboard */; };
+		A10000000000000000000009 /* PhotoshopShortcuts.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000000000000000000009 /* PhotoshopShortcuts.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		241D6BC03053C89700622E08 /* Shortcut 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Shortcut 2.swift"; sourceTree = "<group>"; };
+		24A127FB305A6A4A00A25481 /* Shortcut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shortcut.swift; sourceTree = "<group>"; };
+		24E9BC21305B8F0C000B13B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		A20000000000000000000001 /* LightroomKeysApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LightroomKeysApp.swift; sourceTree = "<group>"; };
 		A20000000000000000000002 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		A20000000000000000000003 /* Shortcut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shortcut.swift; sourceTree = "<group>"; };
 		A20000000000000000000004 /* ShortcutCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortcutCard.swift; sourceTree = "<group>"; };
 		A20000000000000000000005 /* PracticeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeView.swift; sourceTree = "<group>"; };
 		A20000000000000000000006 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A20000000000000000000007 /* LightroomKeys.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LightroomKeys.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A20000000000000000000008 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A20000000000000000000009 /* PhotoshopShortcuts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoshopShortcuts.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,8 +53,11 @@
 		A40000000000000000000002 /* LightroomKeys */ = {
 			isa = PBXGroup;
 			children = (
+				24E9BC21305B8F0C000B13B4 /* Info.plist */,
+				24A127FB305A6A4A00A25481 /* Shortcut.swift */,
 				A20000000000000000000001 /* LightroomKeysApp.swift */,
-				A20000000000000000000003 /* Shortcut.swift */,
+				241D6BC03053C89700622E08 /* Shortcut 2.swift */,
+				A20000000000000000000009 /* PhotoshopShortcuts.swift */,
 				A20000000000000000000002 /* ContentView.swift */,
 				A20000000000000000000004 /* ShortcutCard.swift */,
 				A20000000000000000000005 /* PracticeView.swift */,
@@ -140,9 +147,10 @@
 			files = (
 				A10000000000000000000001 /* LightroomKeysApp.swift in Sources */,
 				A10000000000000000000002 /* ContentView.swift in Sources */,
-				A10000000000000000000003 /* Shortcut.swift in Sources */,
+				A10000000000000000000009 /* PhotoshopShortcuts.swift in Sources */,
 				A10000000000000000000004 /* ShortcutCard.swift in Sources */,
 				A10000000000000000000005 /* PracticeView.swift in Sources */,
+				24A127FC305A6A4A00A25481 /* Shortcut.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -247,17 +255,17 @@
 				DEVELOPMENT_TEAM = 5TPR6W4MKP;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = LightroomKeys/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Lightroom Keys";
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.photography";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UIRequiresFullScreen = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = NO;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.6;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.mattpinner.LightroomKeys;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -281,17 +289,17 @@
 				CURRENT_PROJECT_VERSION = 12;
 				DEVELOPMENT_TEAM = 5TPR6W4MKP;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = LightroomKeys/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Lightroom Keys";
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.photography";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UIRequiresFullScreen = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = NO;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.6;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.mattpinner.LightroomKeys;
 				PRODUCT_NAME = "$(TARGET_NAME)";

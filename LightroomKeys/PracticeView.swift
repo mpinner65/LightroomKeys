@@ -3,6 +3,7 @@ import SwiftUI
 struct PracticeView: View {
     let shortcuts: [LightroomShortcut]
     let platform: ShortcutPlatform
+    var applicationName = "Lightroom Classic"
     @Environment(\.dismiss) private var dismiss
     @State private var index = 0
     @State private var isRevealed = false
@@ -13,6 +14,7 @@ struct PracticeView: View {
         NavigationStack {
             ZStack {
                 Color.appBackground.ignoresSafeArea()
+                ScrollView {
                 VStack(spacing: 24) {
                     progress
                     Spacer(minLength: 10)
@@ -22,8 +24,10 @@ struct PracticeView: View {
                 }
                 .padding(20)
                 .frame(maxWidth: 760)
+                .frame(maxWidth: .infinity)
+                }
             }
-            .navigationTitle("Practice")
+            .navigationTitle("\(applicationName) Practice")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .confirmationAction) {
@@ -66,7 +70,12 @@ struct PracticeView: View {
             }
             Group {
                 if isRevealed {
-                    KeyRow(keys: shortcut.displayKeys(for: platform))
+                    VStack(spacing: 10) {
+                        KeyRow(keys: shortcut.displayKeys(for: platform))
+                        if let note = shortcut.note {
+                            Text(note).font(.caption).foregroundStyle(.secondary)
+                        }
+                    }
                         .transition(.scale.combined(with: .opacity))
                 } else {
                     Button("Reveal shortcut") {

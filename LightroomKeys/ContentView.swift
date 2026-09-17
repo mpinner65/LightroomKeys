@@ -2,15 +2,19 @@ import SwiftUI
 
 struct ContentView: View {
     @Environment(\.horizontalSizeClass) private var horizontalSizeClass
+    @Environment(\.dynamicTypeSize) private var dynamicTypeSize
+    @State private var application: ShortcutApplication = .lightroom
     @State private var query = ""
     @State private var selectedCategory: ShortcutCategory = .all
     @State private var platform: ShortcutPlatform = .macOS
     @State private var isPractising = false
 
     private var filteredShortcuts: [LightroomShortcut] {
-        LightroomShortcut.all.filter { shortcut in
+        application.shortcuts.filter { shortcut in
             let matchesCategory = selectedCategory == .all || shortcut.category == selectedCategory
             let matchesQuery = query.isEmpty || shortcut.action.localizedCaseInsensitiveContains(query)
+                || (shortcut.note ?? "").localizedCaseInsensitiveContains(query)
+                || shortcut.displayKeys(for: platform).joined(separator: " ").localizedCaseInsensitiveContains(query)
                 || shortcut.keys.joined(separator: " ").localizedCaseInsensitiveContains(query)
             return matchesCategory && matchesQuery
         }
@@ -22,8 +26,16 @@ struct ContentView: View {
                 Color.appBackground.ignoresSafeArea()
                 ScrollView {
                     LazyVStack(spacing: 18, pinnedViews: []) {
-                        HeroView(shortcutCount: LightroomShortcut.all.count)
-                        CategoryStrip(selection: $selectedCategory)
+                        Picker("Application", selection: $application) {
+                            ForEach(ShortcutApplication.allCases) { app in
+                                Text(app.rawValue).tag(app)
+                            }
+                        }
+                        .pickerStyle(.segmented)
+                        .padding(.horizontal, 20)
+                        .padding(.top, 12)
+                        HeroView(application: application)
+                        CategoryStrip(selection: $selectedCategory, categories: application.categories)
                         resultHeader
                         shortcutList
                     }
@@ -38,14 +50,20 @@ struct ContentView: View {
             .searchable(text: $query, prompt: "Search actions or keys")
             .toolbar { toolbarContent }
             .sheet(isPresented: $isPractising) {
-                PracticeView(shortcuts: LightroomShortcut.all, platform: platform)
+                PracticeView(shortcuts: application.shortcuts, platform: platform, applicationName: application.rawValue)
             }
         }
         .tint(.cyan)
+        .onChange(of: application) { _, _ in
+            selectedCategory = .all
+            query = ""
+        }
     }
 
     private var resultHeader: some View {
-        HStack(alignment: .firstTextBaseline) {
+        (dynamicTypeSize.isAccessibilitySize
+            ? AnyLayout(VStackLayout(alignment: .leading, spacing: 12))
+            : AnyLayout(HStackLayout(alignment: .firstTextBaseline))) {
             VStack(alignment: .leading, spacing: 4) {
                 Text(selectedCategory == .all ? "All shortcuts" : selectedCategory.rawValue)
                     .font(.title3.bold())
@@ -82,20 +100,16 @@ struct ContentView: View {
     }
 
     private var shortcutColumns: [GridItem] {
-        if horizontalSizeClass == .regular {
-            return [
-                GridItem(.flexible(), spacing: 12, alignment: .top),
-                GridItem(.flexible(), spacing: 12, alignment: .top)
-            ]
+        if horizontalSizeClass == .compact || dynamicTypeSize.isAccessibilitySize {
+            return [GridItem(.flexible())]
         }
-
-        return [GridItem(.flexible())]
+        return [GridItem(.adaptive(minimum: 340), spacing: 12, alignment: .top)]
     }
 
     @ToolbarContentBuilder
     private var toolbarContent: some ToolbarContent {
         ToolbarItem(placement: .topBarLeading) {
-            LightroomMark()
+            LightroomMark(label: application == .lightroom ? "Lr" : "Ps")
         }
         ToolbarItem(placement: .topBarTrailing) {
             Menu {
@@ -105,6 +119,9 @@ struct ContentView: View {
                     }
                 }
                 Divider()
+                if application == .photoshop {
+                    Link("Photoshop keyboard shortcut reference", destination: URL(string: "https://helpx.adobe.com/photoshop/desktop/get-started/settings-and-preferences/view-keyboard-shortcuts.html")!)
+                }
                 Link("Support", destination: URL(string: "https://mattpinner.com/lightroom-keys-support")!)
                 Link("Privacy Policy", destination: URL(string: "https://mattpinner.com/lightroom-keys-privacy")!)
             } label: {
@@ -117,26 +134,33 @@ struct ContentView: View {
 }
 
 private struct HeroView: View {
-    let shortcutCount: Int
+    let application: ShortcutApplication
+    @ScaledMetric(relativeTo: .largeTitle) private var titleSize = 42
 
     var body: some View {
         VStack(alignment: .leading, spacing: 16) {
-            Text("LIGHTROOM CLASSIC · SHORTCUT LIBRARY")
+            Text("\(application.rawValue.uppercased()) · SHORTCUT LIBRARY")
                 .font(.caption2.monospaced().bold())
                 .tracking(1.3)
                 .foregroundStyle(.secondary)
             Text("Edit at the speed\nof **thought.**")
-                .font(.system(size: 42, weight: .bold, design: .rounded))
+                .font(.system(size: titleSize, weight: .bold, design: .rounded))
                 .tracking(-1.8)
                 .foregroundStyle(.white)
             Text("Master the keys that keep your hands on the keyboard and your eyes on the image.")
                 .font(.subheadline)
                 .foregroundStyle(.secondary)
                 .lineSpacing(3)
-            HStack(spacing: 10) {
-                StatPill(value: "\(shortcutCount)", label: "SHORTCUTS")
-                StatPill(value: "\(ShortcutCategory.allCases.count - 1)", label: "CATEGORIES")
+            if application == .photoshop {
+                Text("Desktop defaults. Shared tool keys, custom shortcuts and keyboard layouts can change the result.")
+                    .font(.caption)
+                    .foregroundStyle(.secondary)
             }
+            LazyVGrid(columns: [GridItem(.adaptive(minimum: 160), alignment: .leading)], alignment: .leading, spacing: 10) {
+                StatPill(value: "\(application.shortcuts.count)", label: "SHORTCUTS")
+                StatPill(value: "\(application.categories.count - 1)", label: "CATEGORIES")
+            }
+            .frame(maxWidth: 420, alignment: .leading)
         }
         .frame(maxWidth: .infinity, alignment: .leading)
         .padding(24)
@@ -164,11 +188,12 @@ private struct StatPill: View {
 
 private struct CategoryStrip: View {
     @Binding var selection: ShortcutCategory
+    let categories: [ShortcutCategory]
 
     var body: some View {
         ScrollView(.horizontal, showsIndicators: false) {
             HStack(spacing: 8) {
-                ForEach(ShortcutCategory.allCases) { category in
+                ForEach(categories) { category in
                     Button {
                         withAnimation(.snappy) { selection = category }
                     } label: {
@@ -189,8 +214,9 @@ private struct CategoryStrip: View {
 }
 
 struct LightroomMark: View {
+    var label = "Lr"
     var body: some View {
-        Text("Lr")
+        Text(label)
             .font(.caption.bold())
             .foregroundStyle(.cyan)
             .frame(width: 30, height: 30)

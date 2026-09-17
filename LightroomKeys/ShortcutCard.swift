@@ -14,10 +14,16 @@ struct ShortcutCard: View {
                         .foregroundStyle(.primary)
                     HStack(spacing: 6) {
                         Circle().fill(shortcut.category.tint).frame(width: 5, height: 5)
-                        Text(metadata)
+                        Text(shortcut.category.rawValue.uppercased())
                             .font(.caption2.monospaced())
                             .foregroundStyle(.secondary)
                             .lineLimit(1)
+                    }
+                    if let note = shortcut.note {
+                        Text(note)
+                            .font(.caption)
+                            .foregroundStyle(.secondary)
+                            .fixedSize(horizontal: false, vertical: true)
                     }
                 }
             }
@@ -37,29 +43,37 @@ struct ShortcutCard: View {
         .accessibilityElement(children: .combine)
     }
 
-    private var metadata: String {
-        [shortcut.category.rawValue.uppercased(), shortcut.note?.uppercased()].compactMap { $0 }.joined(separator: " · ")
-    }
+
 }
 
 struct KeyRow: View {
     let keys: [String]
 
     var body: some View {
-        ScrollView(.horizontal, showsIndicators: false) {
-            HStack(spacing: 6) {
-                ForEach(Array(keys.enumerated()), id: \.offset) { _, key in
-                    Text(key)
-                        .font(.caption.monospaced().bold())
-                        .foregroundStyle(.white)
-                        .padding(.horizontal, key.count > 2 ? 10 : 8)
-                        .frame(minWidth: 31, minHeight: 31)
-                        .background {
-                            LinearGradient(colors: [.white.opacity(0.13), .white.opacity(0.06)], startPoint: .top, endPoint: .bottom)
-                        }
-                        .clipShape(.rect(cornerRadius: 7))
-                        .overlay { RoundedRectangle(cornerRadius: 7).stroke(.white.opacity(0.18)) }
-                        .shadow(color: .black.opacity(0.45), radius: 0, y: 2)
+        if keys.joined(separator: " + ").count > 42 {
+            Text(keys.joined(separator: " + "))
+                .font(.caption.monospaced().bold())
+                .foregroundStyle(.white)
+                .fixedSize(horizontal: false, vertical: true)
+                .padding(10)
+                .frame(maxWidth: .infinity, alignment: .leading)
+                .background(.white.opacity(0.08), in: .rect(cornerRadius: 7))
+        } else {
+            ScrollView(.horizontal, showsIndicators: false) {
+                HStack(spacing: 6) {
+                    ForEach(Array(keys.enumerated()), id: \.offset) { _, key in
+                        Text(key)
+                            .font(.caption.monospaced().bold())
+                            .foregroundStyle(.white)
+                            .padding(.horizontal, key.count > 2 ? 10 : 8)
+                            .frame(minWidth: 31, minHeight: 31)
+                            .background {
+                                LinearGradient(colors: [.white.opacity(0.13), .white.opacity(0.06)], startPoint: .top, endPoint: .bottom)
+                            }
+                            .clipShape(.rect(cornerRadius: 7))
+                            .overlay { RoundedRectangle(cornerRadius: 7).stroke(.white.opacity(0.18)) }
+                            .shadow(color: .black.opacity(0.45), radius: 0, y: 2)
+                    }
                 }
             }
         }

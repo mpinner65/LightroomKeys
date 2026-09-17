@@ -1,0 +1,257 @@
+[
+  {
+    "page": 189,
+    "action": "Open the Refine Edge dialog box",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 189,
+    "action": "Cycle (forward) through preview modes",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 189,
+    "action": "Cycle (backward) through preview modes",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 189,
+    "action": "Toggle between original image and selection preview",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 189,
+    "action": "Toggle between original selection and refined version",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 189,
+    "action": "Toggle radius preview on and off",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 189,
+    "action": "Toggle between Refine Radius and Erase Refinements tools",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 190,
+    "action": "Undo/Redo",
+    "reason": "Replaced with modern Undo/Redo entries"
+  },
+  {
+    "page": 190,
+    "action": "Step forward",
+    "reason": "Replaced with modern Undo/Redo entries"
+  },
+  {
+    "page": 190,
+    "action": "Step backward",
+    "reason": "Replaced with modern Undo/Redo entries"
+  },
+  {
+    "page": 190,
+    "action": "Mirror tool",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 190,
+    "action": "Turbulence tool",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 190,
+    "action": "Reverse direction for Bloat, Pucker, Push Left, and Mirror tools",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 190,
+    "action": "Continually sample the distortion",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 190,
+    "action": "Decrease/increase brush size by 2, or density, pressure, rate, or turbulent jitter by 1",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 190,
+    "action": "Decrease/increase brush size by 2, or density, pressure, rate, or turbulent jitter by 1",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 191,
+    "action": "Zoom tool",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 191,
+    "action": "Hand tool",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 191,
+    "action": "White Balance tool",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 191,
+    "action": "Color Sampler tool",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 191,
+    "action": "Crop tool",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 191,
+    "action": "Straighten tool",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 191,
+    "action": "Spot Removal tool",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 191,
+    "action": "Red Eye Removal tool",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 202,
+    "action": "Step forward through image states",
+    "reason": "Replaced with modern Undo/Redo entries"
+  },
+  {
+    "page": 202,
+    "action": "Step backward through image states",
+    "reason": "Replaced with modern Undo/Redo entries"
+  },
+  {
+    "page": 203,
+    "action": "Open Layer Mask Display Options dialog box",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 204,
+    "action": "Display layer group properties",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Fit in window",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Zoom in",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Zoom out",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Cycle through controls on right from top",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Cycle through controls on right from bottom",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Temporarily activate Hand tool",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Change Cancel to Reset",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Edge Highlighter tool",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Fill tool",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Eyedropper tool",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Cleanup tool",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Edge Touchup tool",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Toggle between Edge Highlighter tool and Eraser tool",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Toggle Smart Highlighting",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Remove current highlight",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Highlight entire image",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Fill foreground area and preview extraction",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Move mask when Edge Touchup tool is selected",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Add opacity when Cleanup tool is selected",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Toggle Show menu options in preview between Original and Extracted",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Enable Cleanup and Edge Touchup tools before preview",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Cycle through Display menu in preview from top to bottom",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  },
+  {
+    "page": 205,
+    "action": "Cycle through Display menu in preview from bottom to top",
+    "reason": "Legacy, changed, or not verified for current Photoshop"
+  }
+]

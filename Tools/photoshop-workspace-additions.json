@@ -1,0 +1,416 @@
+[
+  {
+    "action": "Quick Selection tool",
+    "windows": "W",
+    "macOS": "W",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask. W is shared by Quick Selection and Object Selection.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Object Selection tool",
+    "windows": "W",
+    "macOS": "W",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask. W is shared by Quick Selection and Object Selection.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Refine Edge Brush tool",
+    "windows": "R",
+    "macOS": "R",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Brush tool",
+    "windows": "B",
+    "macOS": "B",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Lasso tool",
+    "windows": "L",
+    "macOS": "L",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Hand tool",
+    "windows": "H",
+    "macOS": "H",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Zoom tool",
+    "windows": "Z",
+    "macOS": "Z",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "View: Onion Skin",
+    "windows": "O",
+    "macOS": "O",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask; changes the preview only.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "View: Marching Ants",
+    "windows": "M",
+    "macOS": "M",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask; changes the preview only.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "View: Overlay",
+    "windows": "V",
+    "macOS": "V",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask; changes the preview only.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "View: On Black",
+    "windows": "A",
+    "macOS": "A",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask; changes the preview only.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "View: On White",
+    "windows": "T",
+    "macOS": "T",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask; changes the preview only.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "View: Black and White",
+    "windows": "K",
+    "macOS": "K",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask; changes the preview only.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "View: On Layers",
+    "windows": "Y",
+    "macOS": "Y",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask; changes the preview only.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Show refinement edge",
+    "windows": "J",
+    "macOS": "J",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Show original selection",
+    "windows": "P",
+    "macOS": "P",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Next preview mode",
+    "windows": "F",
+    "macOS": "F",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask.",
+    "source": "https://helpx.adobe.com/photoshop/desktop/make-selections/refine-modify-selections/refine-your-selection-and-mask.html",
+    "page": null
+  },
+  {
+    "action": "Previous preview mode",
+    "windows": "Shift + F",
+    "macOS": "Shift + F",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Temporarily hide preview mode",
+    "windows": "Hold X",
+    "macOS": "Hold X",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask.",
+    "source": "https://helpx.adobe.com/photoshop/desktop/make-selections/refine-modify-selections/refine-your-selection-and-mask.html",
+    "page": null
+  },
+  {
+    "action": "Smaller mask brush",
+    "windows": "[",
+    "macOS": "[",
+    "context": "Select and Mask",
+    "note": "With a brush active in Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Larger mask brush",
+    "windows": "]",
+    "macOS": "]",
+    "context": "Select and Mask",
+    "note": "With a brush active in Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Temporarily switch selection add/subtract",
+    "windows": "Hold Alt",
+    "macOS": "Hold Option",
+    "context": "Select and Mask",
+    "note": "Quick Selection, Brush or Lasso inside Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Restore selection with Refine Edge Brush",
+    "windows": "Hold Alt",
+    "macOS": "Hold Option",
+    "context": "Select and Mask",
+    "note": "Temporarily changes the Refine Edge Brush to restore the original selection.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Intersect using Lasso",
+    "windows": "Hold Shift + Alt",
+    "macOS": "Hold Shift + Option",
+    "context": "Select and Mask",
+    "note": "With Lasso active inside Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Resize mask brush by dragging",
+    "windows": "Alt + right-drag horizontally",
+    "macOS": "Control + Option + drag horizontally",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask. Mac uses Control, not Command.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Adjust mask brush hardness by dragging",
+    "windows": "Alt + right-drag vertically",
+    "macOS": "Control + Option + drag vertically",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask. Mac uses Control, not Command.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Connect mask brush strokes",
+    "windows": "Shift-click",
+    "macOS": "Shift-click",
+    "context": "Select and Mask",
+    "note": "With Brush active inside Select and Mask; connects the previous point to the click.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Hand tool",
+    "windows": "H",
+    "macOS": "H",
+    "context": "Liquify",
+    "note": "Inside the Liquify filter.",
+    "source": "https://jkost.com/blog/2014/07/using-liquify-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Zoom tool",
+    "windows": "Z",
+    "macOS": "Z",
+    "context": "Liquify",
+    "note": "Inside the Liquify filter.",
+    "source": "https://jkost.com/blog/2014/07/using-liquify-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Resize Liquify brush by dragging",
+    "windows": "Alt + right-drag",
+    "macOS": "Control + Option + drag",
+    "context": "Liquify",
+    "note": "Inside Liquify. Mac uses Control, not Command.",
+    "source": "https://jkost.com/blog/2014/07/using-liquify-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Temporarily reverse twirl",
+    "windows": "Hold Alt",
+    "macOS": "Hold Option",
+    "context": "Liquify",
+    "note": "With Twirl active in Liquify.",
+    "source": "https://jkost.com/blog/2014/07/using-liquify-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Temporarily swap pucker and bloat",
+    "windows": "Hold Alt",
+    "macOS": "Hold Option",
+    "context": "Liquify",
+    "note": "With Pucker or Bloat active in Liquify.",
+    "source": "https://jkost.com/blog/2014/07/using-liquify-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Temporarily swap freeze and thaw masks",
+    "windows": "Hold Alt",
+    "macOS": "Hold Option",
+    "context": "Liquify",
+    "note": "With Freeze Mask or Thaw Mask active in Liquify.",
+    "source": "https://jkost.com/blog/2014/07/using-liquify-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Smaller Liquify brush",
+    "windows": "[",
+    "macOS": "[",
+    "context": "Liquify",
+    "note": "Inside Liquify with a brush tool active.",
+    "source": "https://jkost.com/blog/2014/07/using-liquify-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Larger Liquify brush",
+    "windows": "]",
+    "macOS": "]",
+    "context": "Liquify",
+    "note": "Inside Liquify with a brush tool active.",
+    "source": "https://jkost.com/blog/2014/07/using-liquify-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Swap crop width and height",
+    "windows": "X",
+    "macOS": "X",
+    "context": "Crop",
+    "note": "With the Crop tool active.",
+    "source": "https://jkost.com/blog/2017/05/essential-tips-for-cropping-in-photoshop-cc.html",
+    "page": null
+  },
+  {
+    "action": "Next crop overlay",
+    "windows": "O",
+    "macOS": "O",
+    "context": "Crop",
+    "note": "While adjusting the crop marquee.",
+    "source": "https://jkost.com/blog/2017/05/essential-tips-for-cropping-in-photoshop-cc.html",
+    "page": null
+  },
+  {
+    "action": "Hide area outside crop",
+    "windows": "H",
+    "macOS": "H",
+    "context": "Crop",
+    "note": "While adjusting the crop marquee.",
+    "source": "https://jkost.com/blog/2017/05/essential-tips-for-cropping-in-photoshop-cc.html",
+    "page": null
+  },
+  {
+    "action": "Use active image crop dimensions",
+    "windows": "I",
+    "macOS": "I",
+    "context": "Crop",
+    "note": "Adjust the crop marquee first; otherwise I selects Eyedropper.",
+    "source": "https://jkost.com/blog/2017/05/essential-tips-for-cropping-in-photoshop-cc.html",
+    "page": null
+  },
+  {
+    "action": "Toggle classic crop movement",
+    "windows": "P",
+    "macOS": "P",
+    "context": "Crop",
+    "note": "Adjust the crop marquee first; otherwise P selects Pen.",
+    "source": "https://jkost.com/blog/2017/05/essential-tips-for-cropping-in-photoshop-cc.html",
+    "page": null
+  },
+  {
+    "action": "Temporarily straighten crop",
+    "windows": "Hold Control",
+    "macOS": "Hold Command",
+    "context": "Crop",
+    "note": "With Crop active; drag along the line to straighten.",
+    "source": "https://jkost.com/blog/2017/05/essential-tips-for-cropping-in-photoshop-cc.html",
+    "page": null
+  },
+  {
+    "action": "Temporarily switch sampling add/subtract",
+    "windows": "Hold Alt",
+    "macOS": "Hold Option",
+    "context": "Content-Aware Fill",
+    "note": "With Sampling Brush active inside Content-Aware Fill.",
+    "source": "https://helpx.adobe.com/photoshop/desktop/repair-retouch/remove-objects-fill-space/tools-to-fine-tune-sampling-and-fill-areas.html",
+    "page": null
+  },
+  {
+    "action": "Cycle selection add/subtract",
+    "windows": "E",
+    "macOS": "E",
+    "context": "Content-Aware Fill",
+    "note": "With a selection refinement tool active inside Content-Aware Fill.",
+    "source": "https://helpx.adobe.com/photoshop/desktop/repair-retouch/remove-objects-fill-space/tools-to-fine-tune-sampling-and-fill-areas.html",
+    "page": null
+  },
+  {
+    "action": "Temporarily pan the fill workspace",
+    "windows": "Hold Spacebar",
+    "macOS": "Hold Spacebar",
+    "context": "Content-Aware Fill",
+    "note": "Inside Content-Aware Fill while another tool is active.",
+    "source": "https://helpx.adobe.com/photoshop/desktop/repair-retouch/remove-objects-fill-space/tools-to-fine-tune-sampling-and-fill-areas.html",
+    "page": null
+  },
+  {
+    "action": "Load image luminosity as selection",
+    "windows": "Control + Alt + 2",
+    "macOS": "Command + Option + 2",
+    "context": "Selections",
+    "note": "Loads the composite luminosity as a selection.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Apply pending Remove tool strokes",
+    "windows": "Enter",
+    "macOS": "Return",
+    "context": "Painting",
+    "note": "Remove tool: turn off Remove after each stroke, paint the areas, then apply.",
+    "source": "https://www.adobe.com/max/2024/sessions/master-photoshop-2025-exploring-features-s6703.html",
+    "page": null
+  }
+]

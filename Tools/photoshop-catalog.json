@@ -1,0 +1,6410 @@
+[
+  {
+    "action": "Free Transform",
+    "windows": "Control + T",
+    "macOS": "Command + T",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 184
+  },
+  {
+    "action": "Toggle between painting and erasing with the same brush tip",
+    "windows": "Hold down ~ (tilde key)",
+    "macOS": "Hold down ~ (tilde key)",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 184
+  },
+  {
+    "action": "Decrease Brush Size",
+    "windows": "[",
+    "macOS": "[",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 184
+  },
+  {
+    "action": "Increase Brush Size",
+    "windows": "]",
+    "macOS": "]",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 184
+  },
+  {
+    "action": "Decrease Brush Hardness",
+    "windows": "{",
+    "macOS": "{",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 184
+  },
+  {
+    "action": "Increase Brush Hardness",
+    "windows": "}",
+    "macOS": "}",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 184
+  },
+  {
+    "action": "Rotate the brush tip by 1 degree",
+    "windows": "Left Arrow (anti-clockwise), Right Arrow (clockwise)",
+    "macOS": "Left Arrow (anti-clockwise), Right Arrow (clockwise)",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 184
+  },
+  {
+    "action": "Rotate the brush tip by 15 degrees",
+    "windows": "Shift + Left Arrow (anti-clockwise), Shift + Right Arrow (clockwise)",
+    "macOS": "Shift + Left Arrow (anti-clockwise), Shift + Right Arrow (clockwise)",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 184
+  },
+  {
+    "action": "Default Foreground/Background colors",
+    "windows": "D",
+    "macOS": "D",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 184
+  },
+  {
+    "action": "Switch Foreground/Background colors",
+    "windows": "X",
+    "macOS": "X",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 184
+  },
+  {
+    "action": "Fit layer(s) to screen",
+    "windows": "Alt-click layer",
+    "macOS": "Option-click layer",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 184
+  },
+  {
+    "action": "New layer via copy",
+    "windows": "Control + J",
+    "macOS": "Command + J",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 184
+  },
+  {
+    "action": "New layer via cut",
+    "windows": "Shift + Control + J",
+    "macOS": "Shift + Command + J",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 184
+  },
+  {
+    "action": "Add to a selection",
+    "windows": "Any selection tool + Shift-drag",
+    "macOS": "Any selection tool + Shift-drag",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 184
+  },
+  {
+    "action": "Delete brush or swatch",
+    "windows": "Alt-click brush or swatch",
+    "macOS": "Option-click brush or swatch",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 184
+  },
+  {
+    "action": "Toggle auto-select with the move tool",
+    "windows": "Control-click",
+    "macOS": "Command-click",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 184
+  },
+  {
+    "action": "Close all open documents other than the current document",
+    "windows": "Ctrl + Alt + P",
+    "macOS": "Command + Option + P",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 184
+  },
+  {
+    "action": "Cancel any modal dialog window (including the Start Workspace)",
+    "windows": "Escape",
+    "macOS": "Escape",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 185
+  },
+  {
+    "action": "Select the first edit field of the toolbar",
+    "windows": "Enter",
+    "macOS": "Return",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 185
+  },
+  {
+    "action": "Navigate between fields",
+    "windows": "Tab",
+    "macOS": "Tab",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 185
+  },
+  {
+    "action": "Navigate between fields in the opposite direction",
+    "windows": "Tab + Shift",
+    "macOS": "Tab + Shift",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 185
+  },
+  {
+    "action": "Change Cancel to Reset",
+    "windows": "Alt",
+    "macOS": "Option",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 185
+  },
+  {
+    "action": "Search across Photoshop UI, Help & Learn content, and Adobe Stock assets. For more information, see Photoshop search.",
+    "windows": "Control + F",
+    "macOS": "Command + F",
+    "context": "General",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 185
+  },
+  {
+    "action": "Start Help",
+    "windows": "F1",
+    "macOS": "Help key",
+    "context": "Function keys",
+    "note": "On Mac, you may need Fn with the function key, depending on keyboard settings.",
+    "source": "Adobe Photoshop reference",
+    "page": 185
+  },
+  {
+    "action": "Cut",
+    "windows": "F2",
+    "macOS": "F2",
+    "context": "Function keys",
+    "note": "On Mac, you may need Fn with the function key, depending on keyboard settings.",
+    "source": "Adobe Photoshop reference",
+    "page": 185
+  },
+  {
+    "action": "Copy",
+    "windows": "F3",
+    "macOS": "F3",
+    "context": "Function keys",
+    "note": "On Mac, you may need Fn with the function key, depending on keyboard settings.",
+    "source": "Adobe Photoshop reference",
+    "page": 185
+  },
+  {
+    "action": "Paste",
+    "windows": "F4",
+    "macOS": "F4",
+    "context": "Function keys",
+    "note": "On Mac, you may need Fn with the function key, depending on keyboard settings.",
+    "source": "Adobe Photoshop reference",
+    "page": 185
+  },
+  {
+    "action": "Show/Hide Brush panel",
+    "windows": "F5",
+    "macOS": "F5",
+    "context": "Function keys",
+    "note": "On Mac, you may need Fn with the function key, depending on keyboard settings.",
+    "source": "Adobe Photoshop reference",
+    "page": 185
+  },
+  {
+    "action": "Show/Hide Color panel",
+    "windows": "F6",
+    "macOS": "F6",
+    "context": "Function keys",
+    "note": "On Mac, you may need Fn with the function key, depending on keyboard settings.",
+    "source": "Adobe Photoshop reference",
+    "page": 185
+  },
+  {
+    "action": "Show/Hide Layers panel",
+    "windows": "F7",
+    "macOS": "F7",
+    "context": "Function keys",
+    "note": "On Mac, you may need Fn with the function key, depending on keyboard settings.",
+    "source": "Adobe Photoshop reference",
+    "page": 185
+  },
+  {
+    "action": "Show/Hide Info panel",
+    "windows": "F8",
+    "macOS": "F8",
+    "context": "Function keys",
+    "note": "On Mac, you may need Fn with the function key, depending on keyboard settings.",
+    "source": "Adobe Photoshop reference",
+    "page": 185
+  },
+  {
+    "action": "Show/Hide Actions panel",
+    "windows": "F9",
+    "macOS": "Option + F9",
+    "context": "Function keys",
+    "note": "On Mac, you may need Fn with the function key, depending on keyboard settings.",
+    "source": "Adobe Photoshop reference",
+    "page": 185
+  },
+  {
+    "action": "Revert",
+    "windows": "F12",
+    "macOS": "F12",
+    "context": "Function keys",
+    "note": "On Mac, you may need Fn with the function key, depending on keyboard settings.",
+    "source": "Adobe Photoshop reference",
+    "page": 185
+  },
+  {
+    "action": "Fill",
+    "windows": "Shift + F5",
+    "macOS": "Shift + F5",
+    "context": "Function keys",
+    "note": "On Mac, you may need Fn with the function key, depending on keyboard settings.",
+    "source": "Adobe Photoshop reference",
+    "page": 185
+  },
+  {
+    "action": "Feather Selection",
+    "windows": "Shift + F6",
+    "macOS": "Shift + F6",
+    "context": "Function keys",
+    "note": "On Mac, you may need Fn with the function key, depending on keyboard settings.",
+    "source": "Adobe Photoshop reference",
+    "page": 185
+  },
+  {
+    "action": "Inverse Selection",
+    "windows": "Shift + F7",
+    "macOS": "Shift + F7",
+    "context": "Function keys",
+    "note": "On Mac, you may need Fn with the function key, depending on keyboard settings.",
+    "source": "Adobe Photoshop reference",
+    "page": 185
+  },
+  {
+    "action": "Cycle through tools with the same shortcut key",
+    "windows": "Shift-press shortcut key (if Use Shift Key for Tool Switch preference is selected)",
+    "macOS": "Shift-press shortcut key (if Use Shift Key for Tool Switch preference is selected)",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Cycle through hidden tools",
+    "windows": "Alt-click + tool (except Add Anchor Point, Delete Anchor Point, and Convert Point tools)",
+    "macOS": "Option-click + tool (except Add Anchor Point, Delete Anchor Point, and Convert Point tools)",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Move tool",
+    "windows": "V",
+    "macOS": "V",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Rectangular Marquee tool",
+    "windows": "M",
+    "macOS": "M",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Elliptical Marquee tool",
+    "windows": "M",
+    "macOS": "M",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Lasso tool",
+    "windows": "L",
+    "macOS": "L",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Polygonal Lasso tool",
+    "windows": "L",
+    "macOS": "L",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Magnetic Lasso tool",
+    "windows": "L",
+    "macOS": "L",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Magic Wand tool",
+    "windows": "W",
+    "macOS": "W",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Quick Selection tool",
+    "windows": "W",
+    "macOS": "W",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Crop tool",
+    "windows": "C",
+    "macOS": "C",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Slice tool",
+    "windows": "C",
+    "macOS": "C",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Slice Select tool",
+    "windows": "C",
+    "macOS": "C",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Eyedropper tool",
+    "windows": "I",
+    "macOS": "I",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Color Sampler tool",
+    "windows": "I",
+    "macOS": "I",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Ruler tool",
+    "windows": "I",
+    "macOS": "I",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Note tool",
+    "windows": "I",
+    "macOS": "I",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Spot Healing Brush tool",
+    "windows": "J",
+    "macOS": "J",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Healing Brush tool",
+    "windows": "J",
+    "macOS": "J",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Patch tool",
+    "windows": "J",
+    "macOS": "J",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Red Eye tool",
+    "windows": "J",
+    "macOS": "J",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Brush tool",
+    "windows": "B",
+    "macOS": "B",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Pencil tool",
+    "windows": "B",
+    "macOS": "B",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Color Replacement tool",
+    "windows": "B",
+    "macOS": "B",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Mixer Brush tool",
+    "windows": "B",
+    "macOS": "B",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Clone Stamp tool",
+    "windows": "S",
+    "macOS": "S",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Pattern Stamp tool",
+    "windows": "S",
+    "macOS": "S",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "History Brush tool",
+    "windows": "Y",
+    "macOS": "Y",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Art History Brush tool",
+    "windows": "Y",
+    "macOS": "Y",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Eraser tool",
+    "windows": "E",
+    "macOS": "E",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Background Eraser tool",
+    "windows": "E",
+    "macOS": "E",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Magic Eraser tool",
+    "windows": "E",
+    "macOS": "E",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 186
+  },
+  {
+    "action": "Gradient tool",
+    "windows": "G",
+    "macOS": "G",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Paint Bucket tool",
+    "windows": "G",
+    "macOS": "G",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Dodge tool",
+    "windows": "O",
+    "macOS": "O",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Burn tool",
+    "windows": "O",
+    "macOS": "O",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Sponge tool",
+    "windows": "O",
+    "macOS": "O",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Pen tool",
+    "windows": "P",
+    "macOS": "P",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Freeform Pen tool",
+    "windows": "P",
+    "macOS": "P",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Horizontal Type tool",
+    "windows": "T",
+    "macOS": "T",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Vertical Type tool",
+    "windows": "T",
+    "macOS": "T",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Horizontal Type mask tool",
+    "windows": "T",
+    "macOS": "T",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Vertical Type mask tool",
+    "windows": "T",
+    "macOS": "T",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Path Selection tool",
+    "windows": "A",
+    "macOS": "A",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Direct Selection tool",
+    "windows": "A",
+    "macOS": "A",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Rectangle tool",
+    "windows": "U",
+    "macOS": "U",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Ellipse tool",
+    "windows": "U",
+    "macOS": "U",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Polygon tool",
+    "windows": "U",
+    "macOS": "U",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Line tool",
+    "windows": "U",
+    "macOS": "U",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Custom Shape tool",
+    "windows": "U",
+    "macOS": "U",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Hand tool",
+    "windows": "H",
+    "macOS": "H",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Rotate View tool",
+    "windows": "R",
+    "macOS": "R",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Zoom tool",
+    "windows": "Z",
+    "macOS": "Z",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Default Foreground/Background colors",
+    "windows": "D",
+    "macOS": "D",
+    "context": "Tools",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Switch Foreground/Background colors",
+    "windows": "X",
+    "macOS": "X",
+    "context": "Tools",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Toggle Standard/Quick Mask modes",
+    "windows": "Q",
+    "macOS": "Q",
+    "context": "Tools",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Content-Aware Move tool",
+    "windows": "J",
+    "macOS": "J",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Perspective Crop tool",
+    "windows": "C",
+    "macOS": "C",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Artboard tool",
+    "windows": "V",
+    "macOS": "V",
+    "context": "Tools",
+    "note": "Shared tool keys select the active tool in the group. Use Shift + key to cycle when Use Shift Key for Tool Switch is enabled.",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Toggle Preserve Transparency",
+    "windows": "/ (forward slash)",
+    "macOS": "/ (forward slash)",
+    "context": "Tools",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Decrease Brush Hardness",
+    "windows": "{",
+    "macOS": "{",
+    "context": "Tools",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Increase Brush Hardness",
+    "windows": "}",
+    "macOS": "}",
+    "context": "Tools",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Previous Brush",
+    "windows": ",",
+    "macOS": ",",
+    "context": "Tools",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Next Brush",
+    "windows": ".",
+    "macOS": ".",
+    "context": "Tools",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "First Brush",
+    "windows": "<",
+    "macOS": "<",
+    "context": "Tools",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Last Brush",
+    "windows": ">",
+    "macOS": ">",
+    "context": "Tools",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 187
+  },
+  {
+    "action": "Cycle through open documents",
+    "windows": "Control + Tab",
+    "macOS": "Control + Tab",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 188
+  },
+  {
+    "action": "Switch to previous document",
+    "windows": "Shift + Control + Tab",
+    "macOS": "Shift + Command + `(grave accent)",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 188
+  },
+  {
+    "action": "Close a file in Photoshop and open Bridge",
+    "windows": "Shift-Control-W",
+    "macOS": "Shift-Command-W",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 188
+  },
+  {
+    "action": "Toggle between Standard mode and Quick Mask mode",
+    "windows": "Q",
+    "macOS": "Q",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 188
+  },
+  {
+    "action": "Toggle (forward) between Standard screen mode, Full screen mode with menu bar, and Full screen mode",
+    "windows": "F",
+    "macOS": "F",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 188
+  },
+  {
+    "action": "Toggle (backward) between Standard screen mode, Full screen mode with menu bar, and Full screen mode",
+    "windows": "Shift + F",
+    "macOS": "Shift + F",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 188
+  },
+  {
+    "action": "Toggle (forward) canvas color",
+    "windows": "Spacebar + F (or right-click canvas background and select color)",
+    "macOS": "Spacebar + F (or Control-click canvas background and select color)",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 188
+  },
+  {
+    "action": "Toggle (backward) canvas color",
+    "windows": "Spacebar + Shift + F",
+    "macOS": "Spacebar + Shift + F",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 188
+  },
+  {
+    "action": "Fit image in window",
+    "windows": "Double-click Hand tool",
+    "macOS": "Double-click Hand tool",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 188
+  },
+  {
+    "action": "Magnify 100%",
+    "windows": "Double-click Zoom tool or Ctrl + 1",
+    "macOS": "Double-click Zoom tool or Command + 1",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 188
+  },
+  {
+    "action": "Switch to Hand tool (when not in text-edit mode)",
+    "windows": "Spacebar",
+    "macOS": "Spacebar",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 188
+  },
+  {
+    "action": "Simultaneously pan multiple documents with Hand tool",
+    "windows": "Shift-drag",
+    "macOS": "Shift-drag",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 188
+  },
+  {
+    "action": "Switch to Zoom In tool",
+    "windows": "Control + spacebar",
+    "macOS": "Command + spacebar",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 188
+  },
+  {
+    "action": "Switch to Zoom Out tool",
+    "windows": "Alt + spacebar",
+    "macOS": "Option + spacebar",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 188
+  },
+  {
+    "action": "Move Zoom marquee while dragging with the Zoom tool",
+    "windows": "Spacebar-drag",
+    "macOS": "Spacebar-drag",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 188
+  },
+  {
+    "action": "Apply zoom percentage, and keep zoom percentage box active",
+    "windows": "Shift + Enter in Navigator panel zoom percentage box",
+    "macOS": "Shift + Return in Navigator panel zoom percentage box",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 188
+  },
+  {
+    "action": "Zoom in on specified area of an image",
+    "windows": "Control-drag over preview in Navigator panel",
+    "macOS": "Command-drag over preview in Navigator panel",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 188
+  },
+  {
+    "action": "Temporarily zoom into an image",
+    "windows": "Hold down H and then click in the image and hold down the mouse button",
+    "macOS": "Hold down H and then click in the image and hold down the mouse button",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 188
+  },
+  {
+    "action": "Scroll image with Hand tool",
+    "windows": "Spacebar-drag, or drag view area box in Navigator panel",
+    "macOS": "Spacebar-drag, or drag view area box in Navigator panel",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 188
+  },
+  {
+    "action": "Scroll up or down 1 screen",
+    "windows": "Page Up or Page Down",
+    "macOS": "Page Up or Page Down",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 188
+  },
+  {
+    "action": "Scroll up or down 10 units",
+    "windows": "Shift + Page Up or Page Down",
+    "macOS": "Shift + Page Up or Page Down",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 188
+  },
+  {
+    "action": "Move view to upper-left corner or lower-right corner",
+    "windows": "Home or End",
+    "macOS": "Home or End",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 189
+  },
+  {
+    "action": "Toggle layer mask on/off as rubylith (layer mask must be selected)",
+    "windows": "\\ (backslash)",
+    "macOS": "\\ (backslash)",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 189
+  },
+  {
+    "action": "Cancel completely",
+    "windows": "Esc",
+    "macOS": "Esc",
+    "context": "Puppet Warp",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 189
+  },
+  {
+    "action": "Undo last pin adjustment",
+    "windows": "Ctrl + Z",
+    "macOS": "Command + Z",
+    "context": "Puppet Warp",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 189
+  },
+  {
+    "action": "Select all pins",
+    "windows": "Ctrl + A",
+    "macOS": "Command + A",
+    "context": "Puppet Warp",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 189
+  },
+  {
+    "action": "Deselect all pins",
+    "windows": "Ctrl + D",
+    "macOS": "Command + D",
+    "context": "Puppet Warp",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 189
+  },
+  {
+    "action": "Select multiple pins",
+    "windows": "Shift-click",
+    "macOS": "Shift-click",
+    "context": "Puppet Warp",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 189
+  },
+  {
+    "action": "Move multiple selected pins",
+    "windows": "Shift-drag",
+    "macOS": "Shift-drag",
+    "context": "Puppet Warp",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 189
+  },
+  {
+    "action": "Temporarily hide pins",
+    "windows": "H",
+    "macOS": "H",
+    "context": "Puppet Warp",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 189
+  },
+  {
+    "action": "Apply a new filter on top of selected",
+    "windows": "Alt-click a filter",
+    "macOS": "Option-click a filter",
+    "context": "Filter Gallery",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 189
+  },
+  {
+    "action": "Reapply last-used filter",
+    "windows": "Control + Alt + F",
+    "macOS": "Control + Command + F",
+    "context": "Filter Gallery",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 189
+  },
+  {
+    "action": "Open/close all disclosure triangles",
+    "windows": "Alt-click a disclosure triangle",
+    "macOS": "Option-click a disclosure triangle",
+    "context": "Filter Gallery",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 189
+  },
+  {
+    "action": "Change Cancel button to Default",
+    "windows": "Control",
+    "macOS": "Command",
+    "context": "Filter Gallery",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 189
+  },
+  {
+    "action": "Change Cancel button to Reset",
+    "windows": "Alt",
+    "macOS": "Option",
+    "context": "Filter Gallery",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 190
+  },
+  {
+    "action": "Forward Warp tool",
+    "windows": "W",
+    "macOS": "W",
+    "context": "Liquify",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 190
+  },
+  {
+    "action": "Reconstruct tool",
+    "windows": "R",
+    "macOS": "R",
+    "context": "Liquify",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 190
+  },
+  {
+    "action": "Twirl Clockwise tool",
+    "windows": "C",
+    "macOS": "C",
+    "context": "Liquify",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 190
+  },
+  {
+    "action": "Pucker tool",
+    "windows": "S",
+    "macOS": "S",
+    "context": "Liquify",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 190
+  },
+  {
+    "action": "Bloat tool",
+    "windows": "B",
+    "macOS": "B",
+    "context": "Liquify",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 190
+  },
+  {
+    "action": "Push Left tool",
+    "windows": "O",
+    "macOS": "O",
+    "context": "Liquify",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 190
+  },
+  {
+    "action": "Freeze Mask tool",
+    "windows": "F",
+    "macOS": "F",
+    "context": "Liquify",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 190
+  },
+  {
+    "action": "Thaw Mask tool",
+    "windows": "D",
+    "macOS": "D",
+    "context": "Liquify",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 190
+  },
+  {
+    "action": "Cycle through controls on right from top",
+    "windows": "Tab",
+    "macOS": "Tab",
+    "context": "Liquify",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 190
+  },
+  {
+    "action": "Cycle through controls on right from bottom",
+    "windows": "Shift + Tab",
+    "macOS": "Shift + Tab",
+    "context": "Liquify",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 190
+  },
+  {
+    "action": "Change Cancel to Reset",
+    "windows": "Alt",
+    "macOS": "Option",
+    "context": "Liquify",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 190
+  },
+  {
+    "action": "Zoom 2x (temporary)",
+    "windows": "X",
+    "macOS": "X",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 190
+  },
+  {
+    "action": "Zoom in",
+    "windows": "Control + + (plus)",
+    "macOS": "Command + + (plus)",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 190
+  },
+  {
+    "action": "Zoom out",
+    "windows": "Control + - (hyphen)",
+    "macOS": "Command + - (hyphen)",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 190
+  },
+  {
+    "action": "Fit in view",
+    "windows": "Control + 0 (zero), Double-click Hand tool",
+    "macOS": "Command + 0 (zero), Double-click Hand tool",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 190
+  },
+  {
+    "action": "Zoom to the center at 100%",
+    "windows": "Double-click Zoom tool",
+    "macOS": "Double-click Zoom tool",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 190
+  },
+  {
+    "action": "Increase brush size (Brush, Stamp tools)",
+    "windows": "]",
+    "macOS": "]",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 191
+  },
+  {
+    "action": "Decrease brush size (Brush, Stamp tools)",
+    "windows": "[",
+    "macOS": "[",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 191
+  },
+  {
+    "action": "Increase brush hardness (Brush, Stamp tools)",
+    "windows": "Shift + ]",
+    "macOS": "Shift + ]",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 191
+  },
+  {
+    "action": "Decrease brush hardness (Brush, Stamp tools)",
+    "windows": "Shift + [",
+    "macOS": "Shift + [",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 191
+  },
+  {
+    "action": "Undo last action",
+    "windows": "Control + Z",
+    "macOS": "Command + Z",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 191
+  },
+  {
+    "action": "Redo last action",
+    "windows": "Control + Shift + Z",
+    "macOS": "Command + Shift + Z",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 191
+  },
+  {
+    "action": "Deselect all",
+    "windows": "Control + D",
+    "macOS": "Command + D",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 191
+  },
+  {
+    "action": "Hide selection and planes",
+    "windows": "Control + H",
+    "macOS": "Command + H",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 191
+  },
+  {
+    "action": "Move selection 1 pixel",
+    "windows": "Arrow keys",
+    "macOS": "Arrow keys",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 191
+  },
+  {
+    "action": "Move selection 10 pixels",
+    "windows": "Shift + arrow keys",
+    "macOS": "Shift + arrow keys",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 191
+  },
+  {
+    "action": "Copy",
+    "windows": "Control + C",
+    "macOS": "Command + C",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 191
+  },
+  {
+    "action": "Paste",
+    "windows": "Control + V",
+    "macOS": "Command + V",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 191
+  },
+  {
+    "action": "Repeat last duplicate and move",
+    "windows": "Control + Shift + T",
+    "macOS": "Command + Shift + T",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 191
+  },
+  {
+    "action": "Create a floating selection from the current selection",
+    "windows": "Control + Alt + T",
+    "macOS": "Not assigned",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 191
+  },
+  {
+    "action": "Fill a selection with image under the pointer",
+    "windows": "Control-drag",
+    "macOS": "Command-drag",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 191
+  },
+  {
+    "action": "Create a duplicate of the selection as a floating selection",
+    "windows": "Control + Alt-drag",
+    "macOS": "Command + Option-drag",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 191
+  },
+  {
+    "action": "Constrain selection to a 15° rotation",
+    "windows": "Alt + Shift to rotate",
+    "macOS": "Option + Shift to rotate",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 191
+  },
+  {
+    "action": "Select a plane under another selected plane",
+    "windows": "Control-click the plane",
+    "macOS": "Command-click the plane",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 191
+  },
+  {
+    "action": "Create 90° plane off parent plane",
+    "windows": "Control-drag",
+    "macOS": "Command-drag",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 191
+  },
+  {
+    "action": "Delete last node while creating plane",
+    "windows": "Backspace",
+    "macOS": "Delete",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 191
+  },
+  {
+    "action": "Make a full canvas plane, square to the camera",
+    "windows": "Double-click the Create Plane tool",
+    "macOS": "Double-click the Create Plane tool",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 191
+  },
+  {
+    "action": "Open the Black-and-White dialog box",
+    "windows": "Shift + Control + Alt + B",
+    "macOS": "Shift + Command + Option+ B",
+    "context": "Black & White",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Increase/decrease selected value by 1%",
+    "windows": "Up Arrow/Down Arrow",
+    "macOS": "Up Arrow/Down Arrow",
+    "context": "Black & White",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Increase/decrease selected value by 10%",
+    "windows": "Shift + Up Arrow/Down Arrow",
+    "macOS": "Shift + Up Arrow/Down Arrow",
+    "context": "Black & White",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Change the values of the closest color slider",
+    "windows": "Click-drag on the image",
+    "macOS": "Click-drag on the image",
+    "context": "Black & White",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Open the Curves dialog box",
+    "windows": "Control + M",
+    "macOS": "Command + M",
+    "context": "Curves",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Select next point on the curve",
+    "windows": "+ (plus)",
+    "macOS": "+ (plus)",
+    "context": "Curves",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Select the previous point on the curve",
+    "windows": "– (minus)",
+    "macOS": "– (minus)",
+    "context": "Curves",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Select multiple points on the curve",
+    "windows": "Shift-click the points",
+    "macOS": "Shift-click the points",
+    "context": "Curves",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Deselect a point",
+    "windows": "Control + D",
+    "macOS": "Command + D",
+    "context": "Curves",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "To delete a point on the curve",
+    "windows": "Select a point and press Delete",
+    "macOS": "Select a point and press Delete",
+    "context": "Curves",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Move the selected point 1 unit",
+    "windows": "Arrow keys",
+    "macOS": "Arrow keys",
+    "context": "Curves",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Move the selected point 10 units",
+    "windows": "Shift + Arrow keys",
+    "macOS": "Shift + Arrow keys",
+    "context": "Curves",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Display highlights and shadows that will be clipped",
+    "windows": "Alt-drag black/white point sliders",
+    "macOS": "Option-drag black/white point sliders",
+    "context": "Curves",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Set a point to the composite curve",
+    "windows": "Control-click the image",
+    "macOS": "Command-click the image",
+    "context": "Curves",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Set a point to the channel curves",
+    "windows": "Shift + Control-click the image",
+    "macOS": "Shift + Command-click the image",
+    "context": "Curves",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Toggle grid size",
+    "windows": "Alt-click the field",
+    "macOS": "Option-click the field",
+    "context": "Curves",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Reposition marquee while selecting",
+    "windows": "Any marquee tool (except single column and single row) + spacebar-drag",
+    "macOS": "Any marquee tool (except single column and single row) + spacebar-drag",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Add to a selection",
+    "windows": "Any selection tool + Shift-drag",
+    "macOS": "Any selection tool + Shift-drag",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Subtract from a selection",
+    "windows": "Any selection tool + Alt-drag",
+    "macOS": "Any selection tool + Option-drag",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Intersect a selection",
+    "windows": "Any selection tool (except Quick Selection tool) + Shift-Alt-drag",
+    "macOS": "Any selection tool (except Quick Selection tool) + Shift-Option-drag",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Constrain marquee to square or circle (if no other selections are active)",
+    "windows": "Shift-drag",
+    "macOS": "Shift-drag",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Draw marquee from center (if no other selections are active)",
+    "windows": "Alt-drag",
+    "macOS": "Option-drag",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Constrain shape and draw marquee from center",
+    "windows": "Shift + Alt-drag",
+    "macOS": "Shift + Option-drag",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Switch to Move tool",
+    "windows": "Control (except when Hand, Slice, Path, Shape, or any Pen tool is selected)",
+    "macOS": "Command (except when Hand, Slice, Path, Shape, or any Pen tool is selected)",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 194
+  },
+  {
+    "action": "Switch from Magnetic Lasso tool to Lasso tool",
+    "windows": "Alt-drag",
+    "macOS": "Option-drag",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Switch from Magnetic Lasso tool to polygonal Lasso tool",
+    "windows": "Alt-click",
+    "macOS": "Option-click",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Apply/cancel an operation of the Magnetic Lasso",
+    "windows": "Enter/Esc or Control + . (period)",
+    "macOS": "Return/Esc or Command + . (period)",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Move copy of selection",
+    "windows": "Move tool + Alt-drag selection",
+    "macOS": "Move tool + Option-drag selection",
+    "context": "Selections",
+    "note": "†Hold down Shift to move 10 pixels ‡Applies to shape tools",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Move selection area 1 pixel",
+    "windows": "Any selection + Right Arrow, Left Arrow, Up Arrow, or Down Arrow",
+    "macOS": "Any selection + Right Arrow, Left Arrow, Up Arrow, or Down Arrow",
+    "context": "Selections",
+    "note": "†Hold down Shift to move 10 pixels ‡Applies to shape tools",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Move selection 1 pixel",
+    "windows": "Move tool + Right Arrow, Left Arrow, Up Arrow, or Down Arrow",
+    "macOS": "Move tool + Right Arrow, Left Arrow, Up Arrow, or Down Arrow",
+    "context": "Selections",
+    "note": "†Hold down Shift to move 10 pixels ‡Applies to shape tools",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Move layer 1 pixel when nothing selected on layer",
+    "windows": "Control + Right Arrow, Left Arrow, Up Arrow, or Down Arrow",
+    "macOS": "Command + Right Arrow, Left Arrow, Up Arrow, or Down Arrow",
+    "context": "Selections",
+    "note": "†Hold down Shift to move 10 pixels ‡Applies to shape tools",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Increase/decrease detection width",
+    "windows": "Magnetic Lasso tool + [ or ]",
+    "macOS": "Magnetic Lasso tool + [ or ]",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Accept cropping or exit cropping",
+    "windows": "Crop tool + Enter or Esc",
+    "macOS": "Crop tool + Return or Esc",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Toggle crop shield off and on",
+    "windows": "/ (forward slash)",
+    "macOS": "/ (forward slash)",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Make protractor",
+    "windows": "Ruler tool + Alt-drag end point",
+    "macOS": "Ruler tool + Option-drag end point",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Snap guide to ruler ticks (except when View > Snap is unchecked)",
+    "windows": "Shift-drag guide",
+    "macOS": "Shift-drag guide",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Convert between horizontal and vertical guide",
+    "windows": "Alt-drag guide",
+    "macOS": "Option-drag guide",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Transform from the center or reflect",
+    "windows": "Alt",
+    "macOS": "Option",
+    "context": "Transform",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Toggle proportional scaling",
+    "windows": "Shift",
+    "macOS": "Shift",
+    "context": "Transform",
+    "note": "During transform. Shift reverses the current aspect-ratio constraint; behavior follows the link setting.",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Distort",
+    "windows": "Control",
+    "macOS": "Command",
+    "context": "Transform",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Apply",
+    "windows": "Enter",
+    "macOS": "Return",
+    "context": "Transform",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Cancel",
+    "windows": "Control + . (period) or Esc",
+    "macOS": "Command + . (period) or Esc",
+    "context": "Transform",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Free transform with duplicate data",
+    "windows": "Control + Alt + T",
+    "macOS": "Command + Option + T",
+    "context": "Transform",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Transform again with duplicate data",
+    "windows": "Control + Shift + Alt + T",
+    "macOS": "Command + Shift + Option + T",
+    "context": "Transform",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Select multiple anchor points",
+    "windows": "Direct selection tool + Shift-click",
+    "macOS": "Direct selection tool + Shift-click",
+    "context": "Paths",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Select entire path",
+    "windows": "Direct selection tool + Alt-click",
+    "macOS": "Direct selection tool + Option-click",
+    "context": "Paths",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 195
+  },
+  {
+    "action": "Duplicate a path",
+    "windows": "Pen (any Pen tool), Path Selection or Direct Selection tool + Control + Alt-drag",
+    "macOS": "Pen (any Pen tool), Path Selection or Direct Selection tool + Command + Option-drag",
+    "context": "Paths",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Switch from Path Selection, Pen, Add Anchor Point, Delete Anchor Point, or Convert Point tools to Direct Selection tool",
+    "windows": "Control",
+    "macOS": "Command",
+    "context": "Paths",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Switch from Pen tool or Freeform Pen tool to Convert Point tool when pointer is over anchor or direction point",
+    "windows": "Alt",
+    "macOS": "Option",
+    "context": "Paths",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Close path",
+    "windows": "Magnetic Pen tool-double-click",
+    "macOS": "Magnetic Pen tool-double-click",
+    "context": "Paths",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Close path with straight-line segment",
+    "windows": "Magnetic Pen tool + Alt-double-click",
+    "macOS": "Magnetic Pen tool + Option-double-click",
+    "context": "Paths",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Select foreground color from color picker",
+    "windows": "Any painting tool + Shift + Alt + right-click and drag",
+    "macOS": "Any painting tool + Control + Option + Command and drag",
+    "context": "Painting",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Select foreground color from image with Eyedropper tool",
+    "windows": "Any painting tool + Alt or any shape tool + Alt (except when Paths option is selected)",
+    "macOS": "Any painting tool + Option or any shape tool + Option (except when Paths option is selected)",
+    "context": "Painting",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Select background color",
+    "windows": "Eyedropper tool + Alt-click",
+    "macOS": "Eyedropper tool + Option-click",
+    "context": "Painting",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Color sampler tool",
+    "windows": "Eyedropper tool + Shift",
+    "macOS": "Eyedropper tool + Shift",
+    "context": "Painting",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Deletes color sampler",
+    "windows": "Color sampler tool + Alt-click",
+    "macOS": "Color sampler tool + Option-click",
+    "context": "Painting",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Sets opacity, tolerance, strength, or exposure for painting mode",
+    "windows": "Any painting or editing tool + number keys (e.g., 0 = 100%, 1 = 10%, 4 then 5 in quick succession = 45%) (when airbrush option is enabled, use Shift + number keys)",
+    "macOS": "Any painting or editing tool + number keys (e.g., 0 = 100%, 1 = 10%, 4 then 5 in quick succession = 45%) (when airbrush option is enabled, use Shift + number keys)",
+    "context": "Painting",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Sets flow for painting mode",
+    "windows": "Any painting or editing tool + Shift + number keys (e.g., 0 = 100%, 1 = 10%, 4 then 5 in quick succession = 45%) (when airbrush option is enabled, omit Shift)",
+    "macOS": "Any painting or editing tool + Shift + number keys (e.g., 0 = 100%, 1 = 10%, 4 then 5 in quick succession = 45%) (when airbrush option is enabled, omit Shift)",
+    "context": "Painting",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Mixer Brush changes Mix setting",
+    "windows": "Alt + Shift + number",
+    "macOS": "Option + Shift + number",
+    "context": "Painting",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Mixer Brush changes Wet setting",
+    "windows": "Number keys",
+    "macOS": "Number keys",
+    "context": "Painting",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Mixer Brush changes Wet and Mix to zero",
+    "windows": "00",
+    "macOS": "00",
+    "context": "Painting",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Cycle through blending modes",
+    "windows": "Shift + + (plus) or – (minus)",
+    "macOS": "Shift + + (plus) or – (minus)",
+    "context": "Painting",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Open Fill dialog box on the background or standard layer",
+    "windows": "Backspace or Shift + Backspace",
+    "macOS": "Delete or Shift + Delete",
+    "context": "Painting",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Fill with foreground or background color",
+    "windows": "Alt + Backspace or Control + Backspace",
+    "macOS": "Option + Delete or Command + Delete",
+    "context": "Painting",
+    "note": "†Hold down Shift to preserve transparency",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Fill from history",
+    "windows": "Control + Alt + Backspace",
+    "macOS": "Command + Option + Delete",
+    "context": "Painting",
+    "note": "†Hold down Shift to preserve transparency",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Displays Fill dialog box",
+    "windows": "Shift + Backspace",
+    "macOS": "Shift + Delete",
+    "context": "Painting",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Lock transparent pixels on/off",
+    "windows": "/ (forward slash)",
+    "macOS": "/ (forward slash)",
+    "context": "Painting",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Connects points with a straight line",
+    "windows": "Any painting tool + Shift-click",
+    "macOS": "Any painting tool + Shift-click",
+    "context": "Painting",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 196
+  },
+  {
+    "action": "Cycle through blending modes",
+    "windows": "Shift + + (plus) or – (minus)",
+    "macOS": "Shift + + (plus) or – (minus)",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Normal",
+    "windows": "Shift + Alt + N",
+    "macOS": "Shift + Option + N",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Dissolve",
+    "windows": "Shift + Alt + I",
+    "macOS": "Shift + Option + I",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Behind (Brush tool only)",
+    "windows": "Shift + Alt + Q",
+    "macOS": "Shift + Option + Q",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Clear (Brush tool only)",
+    "windows": "Shift + Alt + R",
+    "macOS": "Shift + Option + R",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Darken",
+    "windows": "Shift + Alt + K",
+    "macOS": "Shift + Option + K",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Multiply",
+    "windows": "Shift + Alt + M",
+    "macOS": "Shift + Option + M",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Color Burn",
+    "windows": "Shift + Alt + B",
+    "macOS": "Shift + Option + B",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Linear Burn",
+    "windows": "Shift + Alt + A",
+    "macOS": "Shift + Option + A",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Lighten",
+    "windows": "Shift + Alt + G",
+    "macOS": "Shift + Option + G",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Screen",
+    "windows": "Shift + Alt + S",
+    "macOS": "Shift + Option + S",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Color Dodge",
+    "windows": "Shift + Alt + D",
+    "macOS": "Shift + Option + D",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Linear Dodge",
+    "windows": "Shift + Alt + W",
+    "macOS": "Shift + Option + W",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Overlay",
+    "windows": "Shift + Alt + O",
+    "macOS": "Shift + Option + O",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Soft Light",
+    "windows": "Shift + Alt + F",
+    "macOS": "Shift + Option + F",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Hard Light",
+    "windows": "Shift + Alt + H",
+    "macOS": "Shift + Option + H",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Vivid Light",
+    "windows": "Shift + Alt + V",
+    "macOS": "Shift + Option + V",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Linear Light",
+    "windows": "Shift + Alt + J",
+    "macOS": "Shift + Option + J",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Pin Light",
+    "windows": "Shift + Alt + Z",
+    "macOS": "Shift + Option + Z",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Hard Mix",
+    "windows": "Shift + Alt + L",
+    "macOS": "Shift + Option + L",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Difference",
+    "windows": "Shift + Alt + E",
+    "macOS": "Shift + Option + E",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Exclusion",
+    "windows": "Shift + Alt + X",
+    "macOS": "Shift + Option + X",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Hue",
+    "windows": "Shift + Alt + U",
+    "macOS": "Shift + Option + U",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Saturation",
+    "windows": "Shift + Alt + T",
+    "macOS": "Shift + Option + T",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Color",
+    "windows": "Shift + Alt + C",
+    "macOS": "Shift + Option + C",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Luminosity",
+    "windows": "Shift + Alt + Y",
+    "macOS": "Shift + Option + Y",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Desaturate",
+    "windows": "Sponge tool + Shift + Alt + D",
+    "macOS": "Sponge tool + Shift + Option + D",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Saturate",
+    "windows": "Sponge tool + Shift + Alt + S",
+    "macOS": "Sponge tool + Shift + Option + S",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Dodge/burn shadows",
+    "windows": "Dodge tool/Burn tool + Shift + Alt + S",
+    "macOS": "Dodge tool/Burn tool + Shift + Option + S",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Dodge/burn midtones",
+    "windows": "Dodge tool/Burn tool + Shift + Alt + M",
+    "macOS": "Dodge tool/Burn tool + Shift + Option + M",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Dodge/burn highlights",
+    "windows": "Dodge tool/Burn tool + Shift + Alt + H",
+    "macOS": "Dodge tool/Burn tool + Shift + Option + H",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Set blending mode to Threshold for bitmap images, Normal for all other images",
+    "windows": "Shift + Alt + N",
+    "macOS": "Shift + Option + N",
+    "context": "Blending",
+    "note": "Applies to the active painting tool, or to the selected layer when a non-painting tool is active.",
+    "source": "Adobe Photoshop reference",
+    "page": 197
+  },
+  {
+    "action": "Move type in image",
+    "windows": "Control-drag type when Type layer is selected",
+    "macOS": "Command-drag type when Type layer is selected",
+    "context": "Text",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 198
+  },
+  {
+    "action": "Select 1 character left/right or 1 line down/up, or 1 word left/right",
+    "windows": "Shift + Left Arrow/Right Arrow or Down Arrow/Up Arrow, or Control + Shift + Left Arrow/Right Arrow",
+    "macOS": "Shift + Left Arrow/Right Arrow or Down Arrow/Up Arrow, or Command + Shift + Left Arrow/Right Arrow",
+    "context": "Text",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 198
+  },
+  {
+    "action": "Select characters from insertion point to mouse click point",
+    "windows": "Shift-click",
+    "macOS": "Shift-click",
+    "context": "Text",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 198
+  },
+  {
+    "action": "Move 1 character left/right, 1 line down/up, or 1 word left/right",
+    "windows": "Left Arrow/Right Arrow, Down Arrow/Up Arrow, or Control + Left Arrow/Right Arrow",
+    "macOS": "Left Arrow/Right Arrow, Down Arrow/Up Arrow, or Command + Left Arrow/Right Arrow",
+    "context": "Text",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 198
+  },
+  {
+    "action": "Create a new text layer, when a text layer is selected in the Layers panel",
+    "windows": "Shift-click",
+    "macOS": "Shift-click",
+    "context": "Text",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 198
+  },
+  {
+    "action": "Select a word, line, paragraph, or story",
+    "windows": "Double-click, triple-click, quadruple-click, or quintuple-click",
+    "macOS": "Double-click, triple-click, quadruple-click, or quintuple-click",
+    "context": "Text",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 198
+  },
+  {
+    "action": "Show/Hide selection on selected type",
+    "windows": "Control + H",
+    "macOS": "Command + H",
+    "context": "Text",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 198
+  },
+  {
+    "action": "Display the bounding box for transforming text when editing text, or activate Move tool if cursor is inside the bounding box",
+    "windows": "Control",
+    "macOS": "Command",
+    "context": "Text",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 198
+  },
+  {
+    "action": "Scale text within a bounding box when resizing the bounding box",
+    "windows": "Control-drag a bounding box handle",
+    "macOS": "Command-drag a bounding box handle",
+    "context": "Text",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 198
+  },
+  {
+    "action": "Move text box while creating text box",
+    "windows": "Spacebar-drag",
+    "macOS": "Spacebar-drag",
+    "context": "Text",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 198
+  },
+  {
+    "action": "Align left, center, or right",
+    "windows": "Horizontal Type tool + Control + Shift + L, C, or R",
+    "macOS": "Horizontal Type tool + Command + Shift + L, C, or R",
+    "context": "Typography",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 198
+  },
+  {
+    "action": "Align top, center, or bottom",
+    "windows": "Vertical Type tool + Control + Shift + L, C, or R",
+    "macOS": "Vertical Type tool + Command + Shift + L, C, or R",
+    "context": "Typography",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 198
+  },
+  {
+    "action": "Choose 100% horizontal scale",
+    "windows": "Control + Shift + X",
+    "macOS": "Command + Shift + X",
+    "context": "Typography",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 198
+  },
+  {
+    "action": "Choose 100% vertical scale",
+    "windows": "Control + Shift + Alt + X",
+    "macOS": "Command + Shift + Option + X",
+    "context": "Typography",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 198
+  },
+  {
+    "action": "Choose Auto leading",
+    "windows": "Control + Shift + Alt + A",
+    "macOS": "Command + Shift + Option + A",
+    "context": "Typography",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 198
+  },
+  {
+    "action": "Choose 0 for tracking",
+    "windows": "Control + Shift + Q",
+    "macOS": "Command + Control + Shift + Q",
+    "context": "Typography",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 198
+  },
+  {
+    "action": "Justify paragraph, left aligns last line",
+    "windows": "Control + Shift + J",
+    "macOS": "Command + Shift + J",
+    "context": "Typography",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 198
+  },
+  {
+    "action": "Justify paragraph, justifies all",
+    "windows": "Control + Shift + F",
+    "macOS": "Command + Shift + F",
+    "context": "Typography",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 198
+  },
+  {
+    "action": "Toggle paragraph hyphenation on/off",
+    "windows": "Control + Shift + Alt + H",
+    "macOS": "Command + Control + Shift + Option + H",
+    "context": "Typography",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 198
+  },
+  {
+    "action": "Toggle single/every-line composer on/off",
+    "windows": "Control + Shift + Alt + T",
+    "macOS": "Command + Shift + Option + T",
+    "context": "Typography",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 198
+  },
+  {
+    "action": "Decrease or increase type size of selected text 2 points or pixels",
+    "windows": "Control + Shift + < or >",
+    "macOS": "Command + Shift + < or >",
+    "context": "Typography",
+    "note": "Hold Alt (Windows) or Option (Mac) for 10× increments.",
+    "source": "Adobe Photoshop reference",
+    "page": 198
+  },
+  {
+    "action": "Decrease or increase leading 2 points or pixels",
+    "windows": "Alt + Down Arrow or Up Arrow",
+    "macOS": "Option + Down Arrow or Up Arrow",
+    "context": "Typography",
+    "note": "Hold Ctrl (Windows) or Command (Mac) for 10× increments.",
+    "source": "Adobe Photoshop reference",
+    "page": 199
+  },
+  {
+    "action": "Decrease or increase baseline shift 2 points or pixels",
+    "windows": "Shift + Alt + Down Arrow or Up Arrow",
+    "macOS": "Shift + Option + Down Arrow or Up Arrow",
+    "context": "Typography",
+    "note": "Hold Ctrl (Windows) or Command (Mac) for 10× increments.",
+    "source": "Adobe Photoshop reference",
+    "page": 199
+  },
+  {
+    "action": "Decrease or increase kerning/tracking 20/1000 ems",
+    "windows": "Alt + Left Arrow or Right Arrow",
+    "macOS": "Option + Left Arrow or Right Arrow",
+    "context": "Typography",
+    "note": "Hold Ctrl (Windows) or Command (Mac) for 10× increments.",
+    "source": "Adobe Photoshop reference",
+    "page": 199
+  },
+  {
+    "action": "Toggle between Slice tool and Slice Selection tool",
+    "windows": "Control",
+    "macOS": "Command",
+    "context": "Slices",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 199
+  },
+  {
+    "action": "Draw square slice",
+    "windows": "Shift-drag",
+    "macOS": "Shift-drag",
+    "context": "Slices",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 199
+  },
+  {
+    "action": "Draw from center outward",
+    "windows": "Alt-drag",
+    "macOS": "Option-drag",
+    "context": "Slices",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 199
+  },
+  {
+    "action": "Draw square slice from center outward",
+    "windows": "Shift + Alt-drag",
+    "macOS": "Shift + Option-drag",
+    "context": "Slices",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 199
+  },
+  {
+    "action": "Reposition slice while creating slice",
+    "windows": "Spacebar-drag",
+    "macOS": "Spacebar-drag",
+    "context": "Slices",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 199
+  },
+  {
+    "action": "Open context-sensitive menu",
+    "windows": "Right-click slice",
+    "macOS": "Control-click slice",
+    "context": "Slices",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 199
+  },
+  {
+    "action": "Set options for new items (except for Actions, Animation, Styles, Brushes, Tool Presets, and Layer Comps panels)",
+    "windows": "Alt-click New button",
+    "macOS": "Option-click New button",
+    "context": "Panels",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 199
+  },
+  {
+    "action": "Delete without confirmation (except for the Brush panel)",
+    "windows": "Alt-click Delete button",
+    "macOS": "Option-click Delete button",
+    "context": "Panels",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 199
+  },
+  {
+    "action": "Apply value and keep text box active",
+    "windows": "Shift + Enter",
+    "macOS": "Shift + Return",
+    "context": "Panels",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 199
+  },
+  {
+    "action": "Show/Hide all panels",
+    "windows": "Tab",
+    "macOS": "Tab",
+    "context": "Panels",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 199
+  },
+  {
+    "action": "Show/Hide all panels except the toolbox and options bar",
+    "windows": "Shift + Tab",
+    "macOS": "Shift + Tab",
+    "context": "Panels",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 199
+  },
+  {
+    "action": "Highlight options bar",
+    "windows": "Select tool and press Enter",
+    "macOS": "Select tool and press Return",
+    "context": "Panels",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 199
+  },
+  {
+    "action": "Increase/decrease selected values by 10",
+    "windows": "Shift + Up Arrow/Down Arrow",
+    "macOS": "Shift + Up Arrow/Down Arrow",
+    "context": "Panels",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 199
+  },
+  {
+    "action": "Turn command on and all others off, or turn all commands on",
+    "windows": "Alt-click the check-mark next to a command",
+    "macOS": "Option-click the check-mark next to a command",
+    "context": "Actions",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 199
+  },
+  {
+    "action": "Turn current modal control on and toggle all other modal controls",
+    "windows": "Alt-click",
+    "macOS": "Option-click",
+    "context": "Actions",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 199
+  },
+  {
+    "action": "Change action or action set options",
+    "windows": "Alt + double-click action or action set",
+    "macOS": "Option + double-click action or action set",
+    "context": "Actions",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 200
+  },
+  {
+    "action": "Display Options dialog box for recorded command",
+    "windows": "Double-click recorded command",
+    "macOS": "Double-click recorded command",
+    "context": "Actions",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 200
+  },
+  {
+    "action": "Play entire action",
+    "windows": "Control + double-click an action",
+    "macOS": "Command + double-click an action",
+    "context": "Actions",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 200
+  },
+  {
+    "action": "Collapse/expand all components of an action",
+    "windows": "Alt-click the triangle",
+    "macOS": "Option-click the triangle",
+    "context": "Actions",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 200
+  },
+  {
+    "action": "Play a command",
+    "windows": "Control-click the Play button",
+    "macOS": "Command-click the Play button",
+    "context": "Actions",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 200
+  },
+  {
+    "action": "Create a new action and begin recording without confirmation",
+    "windows": "Alt-click the New Action button",
+    "macOS": "Option-click the New Action button",
+    "context": "Actions",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 200
+  },
+  {
+    "action": "Select contiguous items of the same kind",
+    "windows": "Shift-click the action/command",
+    "macOS": "Shift-click the action/command",
+    "context": "Actions",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 200
+  },
+  {
+    "action": "Select discontiguous items of the same kind",
+    "windows": "Control-click the action/command",
+    "macOS": "Command-click the action/command",
+    "context": "Actions",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 200
+  },
+  {
+    "action": "Choose specific channel for adjustment",
+    "windows": "Alt + 3 (red), 4 (green), 5 (blue)",
+    "macOS": "Option + 3 (red), 4 (green), 5 (blue)",
+    "context": "Adjustments",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 200
+  },
+  {
+    "action": "Choose composite channel for adjustment",
+    "windows": "Alt + 2",
+    "macOS": "Option + 2",
+    "context": "Adjustments",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 200
+  },
+  {
+    "action": "Delete adjustment layer",
+    "windows": "Delete or Backspace",
+    "macOS": "Delete",
+    "context": "Adjustments",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 200
+  },
+  {
+    "action": "Define Auto options for Levels or Curves",
+    "windows": "Alt-click Auto button",
+    "macOS": "Option-click Auto button",
+    "context": "Adjustments",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 200
+  },
+  {
+    "action": "Select/deselect multiple contiguous frames",
+    "windows": "Shift-click second frame",
+    "macOS": "Shift-click second frame",
+    "context": "Animation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 200
+  },
+  {
+    "action": "Select/deselect multiple discontiguous frames",
+    "windows": "Control-click multiple frames",
+    "macOS": "Command-click multiple frames",
+    "context": "Animation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 200
+  },
+  {
+    "action": "Paste using previous settings without displaying the dialog box",
+    "windows": "Alt + Paste Frames command from the Panel pop-up menu",
+    "macOS": "Option + Paste Frames command from the Panel pop-up menu",
+    "context": "Animation",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 200
+  },
+  {
+    "action": "Delete brush",
+    "windows": "Alt-click brush",
+    "macOS": "Option-click brush",
+    "context": "Brush settings",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 200
+  },
+  {
+    "action": "Rename brush",
+    "windows": "Double-click brush",
+    "macOS": "Double-click brush",
+    "context": "Brush settings",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 200
+  },
+  {
+    "action": "Change brush size",
+    "windows": "Alt + right-click + drag left or right",
+    "macOS": "Ctrl + Option + drag left or right",
+    "context": "Brush settings",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 200
+  },
+  {
+    "action": "Decrease/increase brush softness/hardness",
+    "windows": "Alt + right-click + drag up or down",
+    "macOS": "Ctrl + Option + drag up or down",
+    "context": "Brush settings",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 200
+  },
+  {
+    "action": "Select previous/next brush size",
+    "windows": ", (comma) or . (period)",
+    "macOS": ", (comma) or . (period)",
+    "context": "Brush settings",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 200
+  },
+  {
+    "action": "Select first/last brush",
+    "windows": "Shift + , (comma) or . (period)",
+    "macOS": "Shift + , (comma) or . (period)",
+    "context": "Brush settings",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 201
+  },
+  {
+    "action": "Display precise cross hair for brushes",
+    "windows": "Caps Lock or Shift + Caps Lock",
+    "macOS": "Caps Lock",
+    "context": "Brush settings",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 201
+  },
+  {
+    "action": "Toggle airbrush option",
+    "windows": "Shift + Alt + P",
+    "macOS": "Shift + Option + P",
+    "context": "Brush settings",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 201
+  },
+  {
+    "action": "Select individual channels",
+    "windows": "Ctrl + 3 (red), 4 (green), 5 (blue)",
+    "macOS": "Command + 3 (red), 4 (green), 5 (blue)",
+    "context": "Channels",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 201
+  },
+  {
+    "action": "Select composite channel",
+    "windows": "Ctrl + 2",
+    "macOS": "Command + 2",
+    "context": "Channels",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 201
+  },
+  {
+    "action": "Load channel as selection",
+    "windows": "Control-click channel thumbnail, or Alt + Ctrl + 3 (red), 4 (green), 5 (blue)",
+    "macOS": "Command-click channel thumbnail, or Option + Command + 3 (red), 4 (green), 5 (blue)",
+    "context": "Channels",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 201
+  },
+  {
+    "action": "Add to current selection",
+    "windows": "Control + Shift-click channel thumbnail",
+    "macOS": "Command + Shift-click channel thumbnail",
+    "context": "Channels",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 201
+  },
+  {
+    "action": "Subtract from current selection",
+    "windows": "Control + Alt-click channel thumbnail",
+    "macOS": "Command + Option-click channel thumbnail",
+    "context": "Channels",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 201
+  },
+  {
+    "action": "Intersect with current selection",
+    "windows": "Control + Shift + Alt-click channel thumbnail",
+    "macOS": "Command + Shift + Option-click channel thumbnail",
+    "context": "Channels",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 201
+  },
+  {
+    "action": "Set options for Save Selection As Channel button",
+    "windows": "Alt-click Save Selection As Channel button",
+    "macOS": "Option-click Save Selection As Channel button",
+    "context": "Channels",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 201
+  },
+  {
+    "action": "Create a new spot channel",
+    "windows": "Control-click Create New Channel button",
+    "macOS": "Command-click Create New Channel button",
+    "context": "Channels",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 201
+  },
+  {
+    "action": "Select/deselect multiple color-channel selection",
+    "windows": "Shift-click color channel",
+    "macOS": "Shift-click color channel",
+    "context": "Channels",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 201
+  },
+  {
+    "action": "Select/deselect alpha channel and show/hide as a rubylith overlay",
+    "windows": "Shift-click alpha channel",
+    "macOS": "Shift-click alpha channel",
+    "context": "Channels",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 201
+  },
+  {
+    "action": "Display channel options",
+    "windows": "Double-click alpha or spot channel thumbnail",
+    "macOS": "Double-click alpha or spot channel thumbnail",
+    "context": "Channels",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 201
+  },
+  {
+    "action": "Toggle composite and grayscale mask in Quick Mask mode",
+    "windows": "~ (tilde)",
+    "macOS": "~ (tilde)",
+    "context": "Channels",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 201
+  },
+  {
+    "action": "Show Clone Source (overlays image)",
+    "windows": "Alt + Shift",
+    "macOS": "Option + Shift",
+    "context": "Clone source",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 201
+  },
+  {
+    "action": "Nudge Clone Source",
+    "windows": "Alt + Shift + arrow keys",
+    "macOS": "Option + Shift + arrow keys",
+    "context": "Clone source",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 201
+  },
+  {
+    "action": "Rotate Clone Source",
+    "windows": "Alt + Shift + < or >",
+    "macOS": "Option + Shift + < or >",
+    "context": "Clone source",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 201
+  },
+  {
+    "action": "Scale (increase or reduce size) Clone Source",
+    "windows": "Alt + Shift + [ or ]",
+    "macOS": "Option + Shift + [ or ]",
+    "context": "Clone source",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 201
+  },
+  {
+    "action": "Select background color",
+    "windows": "Alt-click color in color bar",
+    "macOS": "Option-click color in color bar",
+    "context": "Color",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "Display Color Bar menu",
+    "windows": "Right-click color bar",
+    "macOS": "Control-click color bar",
+    "context": "Color",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "Cycle through color choices",
+    "windows": "Shift-click color bar",
+    "macOS": "Shift-click color bar",
+    "context": "Color",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "Create a new snapshot",
+    "windows": "Alt + New Snapshot",
+    "macOS": "Option + New Snapshot",
+    "context": "History",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "Rename snapshot",
+    "windows": "Double-click snapshot name",
+    "macOS": "Double-click snapshot name",
+    "context": "History",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "Duplicate any image state, except the current state",
+    "windows": "Alt-click the image state",
+    "macOS": "Option-click the image state",
+    "context": "History",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "Permanently clear history (no Undo)",
+    "windows": "Alt + Clear History (in History panel pop-up menu)",
+    "macOS": "Option + Clear History (in History panel pop-up menu)",
+    "context": "History",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "Change color readout modes",
+    "windows": "Click eyedropper icon",
+    "macOS": "Click eyedropper icon",
+    "context": "Info",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "Change measurement units",
+    "windows": "Click crosshair icon",
+    "macOS": "Click crosshair icon",
+    "context": "Info",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "Load layer transparency as a selection",
+    "windows": "Control-click layer thumbnail",
+    "macOS": "Command-click layer thumbnail",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "Add to current selection",
+    "windows": "Control + Shift-click layer thumbnail",
+    "macOS": "Command + Shift-click layer thumbnail",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "Subtract from current selection",
+    "windows": "Control + Alt-click layer thumbnail",
+    "macOS": "Command + Option-click layer thumbnail",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "Intersect with current selection",
+    "windows": "Control + Shift + Alt-click layer thumbnail",
+    "macOS": "Command + Shift + Option-click layer thumbnail",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "Load filter mask as a selection",
+    "windows": "Control-click filter mask thumbnail",
+    "macOS": "Command-click filter mask thumbnail",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "New layer",
+    "windows": "Control + Shift+ N",
+    "macOS": "Command + Shift+ N",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "New layer via copy",
+    "windows": "Control + J",
+    "macOS": "Command + J",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "New layer via cut",
+    "windows": "Shift + Control + J",
+    "macOS": "Shift + Command + J",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "Group layers",
+    "windows": "Control + G",
+    "macOS": "Command + G",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "Ungroup layers",
+    "windows": "Control + Shift + G",
+    "macOS": "Command + Shift + G",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "Create/release clipping mask",
+    "windows": "Control + Alt + G",
+    "macOS": "Command + Option + G",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "Select all layers",
+    "windows": "Control + Alt + A",
+    "macOS": "Command + Option + A",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "Merge visible layers",
+    "windows": "Control + Shift + E",
+    "macOS": "Command + Shift + E",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "Create new empty layer with dialog box",
+    "windows": "Alt-click New Layer button",
+    "macOS": "Option-click New Layer button",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 202
+  },
+  {
+    "action": "Create new layer below target layer",
+    "windows": "Control-click New Layer button",
+    "macOS": "Command-click New Layer button",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Select top layer",
+    "windows": "Alt + . (period)",
+    "macOS": "Option + . (period)",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Select bottom layer",
+    "windows": "Alt + , (comma)",
+    "macOS": "Option + , (comma)",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Add to layer selection in Layers panel",
+    "windows": "Shift + Alt + [ or ]",
+    "macOS": "Shift + Option + [ or ]",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Select next layer down/up",
+    "windows": "Alt + [ or ]",
+    "macOS": "Option + [ or ]",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Move target layer down/up",
+    "windows": "Control + [ or ]",
+    "macOS": "Command + [ or ]",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Merge a copy of all visible layers into target layer",
+    "windows": "Control + Shift + Alt + E",
+    "macOS": "Command + Shift + Option + E",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Merge layers",
+    "windows": "Highlight layers you want to merge, then Control + E",
+    "macOS": "Highlight the layers you want to merge, then Command + E",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Move layer to bottom or top",
+    "windows": "Control + Shift + [ or ]",
+    "macOS": "Command + Shift + [ or ]",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Copy current layer to layer below",
+    "windows": "Alt + Merge Down command from the Panel pop-up menu",
+    "macOS": "Option + Merge Down command from the Panel pop-up menu",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Merge all visible layers to a new layer above the currently selected layer",
+    "windows": "Alt + Merge Visible command from the Panel pop-up menu",
+    "macOS": "Option + Merge Visible command from the Panel pop-up menu",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Show/hide this layer/layer group only or all layers/layer groups",
+    "windows": "Right-click the eye icon",
+    "macOS": "Control-click the eye icon",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Show/hide all other currently visible layers",
+    "windows": "Alt-click the eye icon",
+    "macOS": "Option-click the eye icon",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Toggle lock transparency for target layer, or last applied lock",
+    "windows": "/ (forward slash)",
+    "macOS": "/ (forward slash)",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Edit layer effect/style, options",
+    "windows": "Double-click layer effect/style",
+    "macOS": "Double-click layer effect/style",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Hide layer effect/style",
+    "windows": "Alt-double-click layer effect/style",
+    "macOS": "Option-double-click layer effect/style",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Edit layer style",
+    "windows": "Double-click layer",
+    "macOS": "Double-click layer",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Disable/enable vector mask",
+    "windows": "Shift-click vector mask thumbnail",
+    "macOS": "Shift-click vector mask thumbnail",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Toggle layer mask on/off",
+    "windows": "Shift-click layer mask thumbnail",
+    "macOS": "Shift-click layer mask thumbnail",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Toggle filter mask on/off",
+    "windows": "Shift-click filter mask thumbnail",
+    "macOS": "Shift-click filter mask thumbnail",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Toggle between layer mask/composite image",
+    "windows": "Alt-click layer mask thumbnail",
+    "macOS": "Option-click layer mask thumbnail",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Toggle between filter mask/composite image",
+    "windows": "Alt-click filter mask thumbnail",
+    "macOS": "Option-click filter mask thumbnail",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Toggle rubylith mode for layer mask on/off",
+    "windows": "\\ (backslash), or Shift + Alt-click",
+    "macOS": "\\ (backslash), or Shift + Option-click",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Select all type; temporarily select Type tool",
+    "windows": "Double-click type layer thumbnail",
+    "macOS": "Double-click type layer thumbnail",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Create a clipping mask",
+    "windows": "Alt-click the line dividing two layers",
+    "macOS": "Option-click the line dividing two layers",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Rename layer",
+    "windows": "Double-click the layer name",
+    "macOS": "Double-click the layer name",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Edit filter settings",
+    "windows": "Double-click the filter effect",
+    "macOS": "Double-click the filter effect",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Edit the Filter Blending options",
+    "windows": "Double-click the Filter Blending icon",
+    "macOS": "Double-click the Filter Blending icon",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Create new layer group below current layer/layer set",
+    "windows": "Control-click New Group button",
+    "macOS": "Command-click New Group button",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Create new layer group with dialog box",
+    "windows": "Alt-click New Group button",
+    "macOS": "Option-click New Group button",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 203
+  },
+  {
+    "action": "Create layer mask that hides all/selection",
+    "windows": "Alt-click Add Layer Mask button",
+    "macOS": "Option-click Add Layer Mask button",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 204
+  },
+  {
+    "action": "Create vector mask that reveals all/path area",
+    "windows": "Control-click Add Layer Mask button",
+    "macOS": "Command-click Add Layer Mask button",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 204
+  },
+  {
+    "action": "Create vector mask that hides all or displays path area",
+    "windows": "Control + Alt-click Add Layer Mask button",
+    "macOS": "Command + Option-click Add Layer Mask button",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 204
+  },
+  {
+    "action": "Select/deselect multiple contiguous layers",
+    "windows": "Shift-click",
+    "macOS": "Shift-click",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 204
+  },
+  {
+    "action": "Select/deselect multiple discontiguous layers",
+    "windows": "Control-click",
+    "macOS": "Command-click",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 204
+  },
+  {
+    "action": "Create new layer comp without the New Layer Comp box",
+    "windows": "Alt-click Create New Layer Comp button",
+    "macOS": "Option-click Create New Layer Comp button",
+    "context": "Layer comps",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 204
+  },
+  {
+    "action": "Open Layer Comp Options dialog box",
+    "windows": "Double-click layer comp",
+    "macOS": "Double-click layer comp",
+    "context": "Layer comps",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 204
+  },
+  {
+    "action": "Rename in-line",
+    "windows": "Double-click layer comp name",
+    "macOS": "Double-click layer comp name",
+    "context": "Layer comps",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 204
+  },
+  {
+    "action": "Select/deselect multiple contiguous layer comps",
+    "windows": "Shift-click",
+    "macOS": "Shift-click",
+    "context": "Layer comps",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 204
+  },
+  {
+    "action": "Select/deselect multiple discontiguous layer comps",
+    "windows": "Control-click",
+    "macOS": "Command-click",
+    "context": "Layer comps",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 204
+  },
+  {
+    "action": "Load path as selection",
+    "windows": "Control-click pathname",
+    "macOS": "Command-click pathname",
+    "context": "Paths panel",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 204
+  },
+  {
+    "action": "Add path to selection",
+    "windows": "Control + Shift-click pathname",
+    "macOS": "Command + Shift-click pathname",
+    "context": "Paths panel",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 204
+  },
+  {
+    "action": "Subtract path from selection",
+    "windows": "Control + Alt-click pathname",
+    "macOS": "Command + Option-click pathname",
+    "context": "Paths panel",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 204
+  },
+  {
+    "action": "Retain intersection of path as selection",
+    "windows": "Control + Shift + Alt-click pathname",
+    "macOS": "Command + Shift + Option-click pathname",
+    "context": "Paths panel",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 204
+  },
+  {
+    "action": "Hide path",
+    "windows": "Control + Shift + H",
+    "macOS": "Command + Shift + H",
+    "context": "Paths panel",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 204
+  },
+  {
+    "action": "Set options for Fill Path with Foreground Color button, Stroke Path with Brush button, Load Path as a Selection button, Make Work Path from Selection button, and Create New Path button",
+    "windows": "Alt-click button",
+    "macOS": "Option-click button",
+    "context": "Paths panel",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 204
+  },
+  {
+    "action": "Create new swatch from foreground color",
+    "windows": "Click in empty area of panel",
+    "macOS": "Click in empty area of panel",
+    "context": "Swatches",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 205
+  },
+  {
+    "action": "Set swatch color as background color",
+    "windows": "Control-click swatch",
+    "macOS": "Command-click swatch",
+    "context": "Swatches",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 205
+  },
+  {
+    "action": "Delete swatch",
+    "windows": "Alt-click swatch",
+    "macOS": "Option-click swatch",
+    "context": "Swatches",
+    "note": "",
+    "source": "Adobe Photoshop reference",
+    "page": 205
+  },
+  {
+    "action": "New document",
+    "windows": "Ctrl + N",
+    "macOS": "Command + N",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Open document",
+    "windows": "Ctrl + O",
+    "macOS": "Command + O",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Browse in Bridge",
+    "windows": "Ctrl + Alt + O",
+    "macOS": "Command + Option + O",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Close document",
+    "windows": "Ctrl + W",
+    "macOS": "Command + W",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Close all documents",
+    "windows": "Ctrl + Alt + W",
+    "macOS": "Command + Option + W",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Save",
+    "windows": "Ctrl + S",
+    "macOS": "Command + S",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Save As",
+    "windows": "Ctrl + Shift + S",
+    "macOS": "Command + Shift + S",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Save a Copy",
+    "windows": "Ctrl + Alt + S",
+    "macOS": "Command + Option + S",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Export As",
+    "windows": "Ctrl + Alt + Shift + W",
+    "macOS": "Command + Option + Shift + W",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Save for Web (Legacy)",
+    "windows": "Ctrl + Alt + Shift + S",
+    "macOS": "Command + Option + Shift + S",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "File Info",
+    "windows": "Ctrl + Alt + Shift + I",
+    "macOS": "Command + Option + Shift + I",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Print",
+    "windows": "Ctrl + P",
+    "macOS": "Command + P",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Print one copy",
+    "windows": "Ctrl + Alt + Shift + P",
+    "macOS": "Command + Option + Shift + P",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Quit Photoshop",
+    "windows": "Ctrl + Q",
+    "macOS": "Command + Q",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Undo",
+    "windows": "Ctrl + Z",
+    "macOS": "Command + Z",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Redo",
+    "windows": "Ctrl + Shift + Z",
+    "macOS": "Command + Shift + Z",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Toggle last history state",
+    "windows": "Ctrl + Alt + Z",
+    "macOS": "Command + Option + Z",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Fade last edit",
+    "windows": "Ctrl + Shift + F",
+    "macOS": "Command + Shift + F",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Cut",
+    "windows": "Ctrl + X",
+    "macOS": "Command + X",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Copy",
+    "windows": "Ctrl + C",
+    "macOS": "Command + C",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Copy merged",
+    "windows": "Ctrl + Shift + C",
+    "macOS": "Command + Shift + C",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Paste",
+    "windows": "Ctrl + V",
+    "macOS": "Command + V",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Paste in place",
+    "windows": "Ctrl + Shift + V",
+    "macOS": "Command + Shift + V",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Paste into selection",
+    "windows": "Ctrl + Alt + Shift + V",
+    "macOS": "Command + Option + Shift + V",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Color Settings",
+    "windows": "Ctrl + Shift + K",
+    "macOS": "Command + Shift + K",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Keyboard Shortcuts",
+    "windows": "Ctrl + Alt + Shift + K",
+    "macOS": "Command + Option + Shift + K",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Menus settings",
+    "windows": "Ctrl + Alt + Shift + M",
+    "macOS": "Command + Option + Shift + M",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "General preferences",
+    "windows": "Ctrl + K",
+    "macOS": "Command + K",
+    "context": "General",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Levels",
+    "windows": "Ctrl + L",
+    "macOS": "Command + L",
+    "context": "Adjustments",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Hue/Saturation",
+    "windows": "Ctrl + U",
+    "macOS": "Command + U",
+    "context": "Adjustments",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Color Balance",
+    "windows": "Ctrl + B",
+    "macOS": "Command + B",
+    "context": "Adjustments",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Invert colors",
+    "windows": "Ctrl + I",
+    "macOS": "Command + I",
+    "context": "Adjustments",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Desaturate",
+    "windows": "Ctrl + Shift + U",
+    "macOS": "Command + Shift + U",
+    "context": "Adjustments",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Auto Tone",
+    "windows": "Ctrl + Shift + L",
+    "macOS": "Command + Shift + L",
+    "context": "Adjustments",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Auto Contrast",
+    "windows": "Ctrl + Alt + Shift + L",
+    "macOS": "Command + Option + Shift + L",
+    "context": "Adjustments",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Auto Color",
+    "windows": "Ctrl + Shift + B",
+    "macOS": "Command + Shift + B",
+    "context": "Adjustments",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Image Size",
+    "windows": "Ctrl + Alt + I",
+    "macOS": "Command + Option + I",
+    "context": "Transform",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Canvas Size",
+    "windows": "Ctrl + Alt + C",
+    "macOS": "Command + Option + C",
+    "context": "Transform",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Content-Aware Scale",
+    "windows": "Ctrl + Alt + Shift + C",
+    "macOS": "Command + Option + Shift + C",
+    "context": "Transform",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Transform again",
+    "windows": "Ctrl + Shift + T",
+    "macOS": "Command + Shift + T",
+    "context": "Transform",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Select all",
+    "windows": "Ctrl + A",
+    "macOS": "Command + A",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Deselect",
+    "windows": "Ctrl + D",
+    "macOS": "Command + D",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Reselect",
+    "windows": "Ctrl + Shift + D",
+    "macOS": "Command + Shift + D",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Inverse selection",
+    "windows": "Ctrl + Shift + I",
+    "macOS": "Command + Shift + I",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Find layers",
+    "windows": "Ctrl + Alt + Shift + F",
+    "macOS": "Command + Option + Shift + F",
+    "context": "Layers",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Select and Mask",
+    "windows": "Ctrl + Alt + R",
+    "macOS": "Command + Option + R",
+    "context": "Selections",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Adaptive Wide Angle",
+    "windows": "Ctrl + Alt + Shift + A",
+    "macOS": "Command + Option + Shift + A",
+    "context": "Filter Gallery",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Camera Raw Filter",
+    "windows": "Ctrl + Shift + A",
+    "macOS": "Command + Shift + A",
+    "context": "Filter Gallery",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Open Liquify",
+    "windows": "Ctrl + Shift + X",
+    "macOS": "Command + Shift + X",
+    "context": "Liquify",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Lens Correction",
+    "windows": "Ctrl + Shift + R",
+    "macOS": "Command + Shift + R",
+    "context": "Filter Gallery",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Open Vanishing Point",
+    "windows": "Ctrl + Alt + V",
+    "macOS": "Command + Option + V",
+    "context": "Vanishing Point",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Proof colors",
+    "windows": "Ctrl + Y",
+    "macOS": "Command + Y",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Gamut warning",
+    "windows": "Ctrl + Shift + Y",
+    "macOS": "Command + Shift + Y",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Zoom in",
+    "windows": "Ctrl + +",
+    "macOS": "Command + +",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Zoom out",
+    "windows": "Ctrl + -",
+    "macOS": "Command + -",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Fit on screen",
+    "windows": "Ctrl + 0",
+    "macOS": "Command + 0",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Actual pixels (100%)",
+    "windows": "Ctrl + 1",
+    "macOS": "Command + 1",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Show or hide extras",
+    "windows": "Ctrl + H",
+    "macOS": "Command + H",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Show or hide grid",
+    "windows": "Ctrl + '",
+    "macOS": "Command + '",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Show or hide guides",
+    "windows": "Ctrl + ;",
+    "macOS": "Command + ;",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Show or hide rulers",
+    "windows": "Ctrl + R",
+    "macOS": "Command + R",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Toggle snapping",
+    "windows": "Ctrl + Shift + ;",
+    "macOS": "Command + Shift + ;",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Lock guides",
+    "windows": "Ctrl + Alt + ;",
+    "macOS": "Command + Option + ;",
+    "context": "Navigation",
+    "note": "",
+    "source": "Adobe menu reference; see SOURCES.md",
+    "page": null
+  },
+  {
+    "action": "Object Selection tool",
+    "windows": "W",
+    "macOS": "W",
+    "context": "Tools",
+    "note": "Shared with Quick Selection and Magic Wand. Shift + W cycles the group.",
+    "source": "Adobe Object Selection documentation",
+    "page": null
+  },
+  {
+    "action": "Rotate brush tip counterclockwise 1°",
+    "windows": "Left arrow",
+    "macOS": "Left arrow",
+    "context": "Painting",
+    "note": "With a brush tool active.",
+    "source": "Adobe shortcut PDF",
+    "page": null
+  },
+  {
+    "action": "Rotate brush tip clockwise 1°",
+    "windows": "Right arrow",
+    "macOS": "Right arrow",
+    "context": "Painting",
+    "note": "With a brush tool active.",
+    "source": "Adobe shortcut PDF",
+    "page": null
+  },
+  {
+    "action": "Rotate brush tip counterclockwise 15°",
+    "windows": "Shift + Left arrow",
+    "macOS": "Shift + Left arrow",
+    "context": "Painting",
+    "note": "With a brush tool active.",
+    "source": "Adobe shortcut PDF",
+    "page": null
+  },
+  {
+    "action": "Rotate brush tip clockwise 15°",
+    "windows": "Shift + Right arrow",
+    "macOS": "Shift + Right arrow",
+    "context": "Painting",
+    "note": "With a brush tool active.",
+    "source": "Adobe shortcut PDF",
+    "page": null
+  },
+  {
+    "action": "Zoom in",
+    "windows": "Control + (+)",
+    "macOS": "Command + (+)",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Zoom out",
+    "windows": "Control + (-)",
+    "macOS": "Command + (-)",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Zoom to 100%",
+    "windows": "Control + Alt + 0",
+    "macOS": "Command + Option + 0",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Zoom to fit",
+    "windows": "Control + 0",
+    "macOS": "Command + 0",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Toggle undo or redo",
+    "windows": "Control + Alt + Z",
+    "macOS": "Command + Option + Z",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Undo",
+    "windows": "Control + Z",
+    "macOS": "Command + Z",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Redo",
+    "windows": "Control + Shift + Z",
+    "macOS": "Command + Shift + Z",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Select all images",
+    "windows": "Control + A",
+    "macOS": "Command + A",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Select all rated images",
+    "windows": "Control + Alt + A",
+    "macOS": "Command + Option + A",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Select only main image",
+    "windows": "Control + Shift + A or Control + D",
+    "macOS": "Command + Shift + A or Command + D",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Syncronize selected images",
+    "windows": "Alt + S",
+    "macOS": "Option + S",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Syncronize selected images with no dialog",
+    "windows": "Alt + Shift + S",
+    "macOS": "Option + Shift + S",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Merge selected images to a panorama",
+    "windows": "Control + M",
+    "macOS": "Command + M",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Merge selected images to HDR",
+    "windows": "Alt + M",
+    "macOS": "Option + M",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Merge selected images to a panorama (no dialog)",
+    "windows": "Control + Shift + M",
+    "macOS": "Command + Shift + M",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Merge selected images to HDR (no dialog)",
+    "windows": "Alt + Shift + M",
+    "macOS": "Opt + Shift + M",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Rotate image right (clockwise)",
+    "windows": "Control + ] or R",
+    "macOS": "Command + ] or R",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Rotate image left (counterclockwise)",
+    "windows": "Control + [ or L",
+    "macOS": "Command + [ or L",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Mark image as rejected",
+    "windows": "Alt + Backspace",
+    "macOS": "Option + Delete",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Preferences",
+    "windows": "Control + K",
+    "macOS": "Command + K",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Open image",
+    "windows": "Control + O",
+    "macOS": "Command + O",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Open image copy",
+    "windows": "Control + Alt + O",
+    "macOS": "Command + Option + O",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Open as smart object",
+    "windows": "Control + Shift + O",
+    "macOS": "Command + Shift + O",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Save image",
+    "windows": "Control + S",
+    "macOS": "Command + S",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Save image without dialog",
+    "windows": "Control + Alt + S",
+    "macOS": "Command + Option + S",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Apply auto adjustments",
+    "windows": "Control + U",
+    "macOS": "Command + U",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Apply default adjustments",
+    "windows": "Control + R",
+    "macOS": "Command + R",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Decrease current brush size",
+    "windows": "[",
+    "macOS": "[",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Increase current brush size",
+    "windows": "]",
+    "macOS": "]",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Show/Hide filmstrip",
+    "windows": "/",
+    "macOS": "/",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Toggle film strip orientation",
+    "windows": "Control + Shift + F",
+    "macOS": "Command + Shift + F",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Toggle brush overlay",
+    "windows": "V",
+    "macOS": "V",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Find spot source",
+    "windows": "/",
+    "macOS": "/",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Toggle preview",
+    "windows": "P",
+    "macOS": "P",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Save before state",
+    "windows": "Alt + P",
+    "macOS": "Option + P",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Cycle preview view",
+    "windows": "Q",
+    "macOS": "Q",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Cycle preview view (reverse)",
+    "windows": "Shift + Q",
+    "macOS": "Shift + Q",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Toggle fullscreen mode",
+    "windows": "F",
+    "macOS": "F",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Toggle highlight clipping warning",
+    "windows": "O",
+    "macOS": "O",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Toggle shadow clipping warning",
+    "windows": "U",
+    "macOS": "U",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Toggle Auto Mask",
+    "windows": "M",
+    "macOS": "M",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Toggle/Show Mask overlay",
+    "windows": "Y",
+    "macOS": "Y",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Deselect object",
+    "windows": "N",
+    "macOS": "N",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Copy settings",
+    "windows": "Control + C",
+    "macOS": "Command + C",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Copy selected settings",
+    "windows": "Control + Alt + C",
+    "macOS": "Command + Option + C",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Paste settings",
+    "windows": "Control + V",
+    "macOS": "Command + V",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Enhance Details",
+    "windows": "Control + Shift + D",
+    "macOS": "Command + Shift + D",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Swap current and default all settings",
+    "windows": "\\",
+    "macOS": "\\",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Presets panel",
+    "windows": "Shift + P",
+    "macOS": "Shift + P",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Snapshots panel",
+    "windows": "Shift + S",
+    "macOS": "Shift + S",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Popular shortcuts",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "White balance",
+    "windows": "I",
+    "macOS": "I",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Zoom",
+    "windows": "Z",
+    "macOS": "Z",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Hand",
+    "windows": "H",
+    "macOS": "H",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Crop",
+    "windows": "C",
+    "macOS": "C",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Straighten/Align",
+    "windows": "A",
+    "macOS": "A",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Sampler",
+    "windows": "S",
+    "macOS": "S",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Targeted Adjustment",
+    "windows": "T",
+    "macOS": "T",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Remove",
+    "windows": "B",
+    "macOS": "B",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Edit",
+    "windows": "E",
+    "macOS": "E",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Red Eye",
+    "windows": "Shift + E",
+    "macOS": "Shift + E",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Delete object or mask",
+    "windows": "Backspace",
+    "macOS": "Delete",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "New Brush mask",
+    "windows": "K",
+    "macOS": "K",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "New Gradient mask",
+    "windows": "G",
+    "macOS": "G",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Reverse mask",
+    "windows": "X",
+    "macOS": "X",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Ellipse",
+    "windows": "J",
+    "macOS": "J",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Transform",
+    "windows": "Shift + T",
+    "macOS": "Shift + T",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Toggle alignment grid",
+    "windows": "Shift + Ctrl + G",
+    "macOS": "Shift + Command + G",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "New Luminance mask",
+    "windows": "Shift + L",
+    "macOS": "Shift + L",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Add Brush in mask",
+    "windows": "Shift + K",
+    "macOS": "Shift + K",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "New mask",
+    "windows": "N",
+    "macOS": "N",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Create new preset",
+    "windows": "Control + Shift + P",
+    "macOS": "Command + Shift + P",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Create new snapshot",
+    "windows": "Control + Shift + S",
+    "macOS": "Command + Shift + S",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Select tools",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Spherical panorama projection",
+    "windows": "Control + 1",
+    "macOS": "Command + 1",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Merge Panorama dialog",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Cylindrical panorama projection",
+    "windows": "Control + 2",
+    "macOS": "Command + 2",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Merge Panorama dialog",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Perspective panorama projection",
+    "windows": "Control + 3",
+    "macOS": "Command + 3",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Merge Panorama dialog",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Auto crop panorama",
+    "windows": "C",
+    "macOS": "C",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Merge Panorama dialog",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Align source images",
+    "windows": "A",
+    "macOS": "A",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Merge HDR dialog",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Visualize deghost",
+    "windows": "Y",
+    "macOS": "Y",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Merge HDR dialog",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Auto tone HDR result",
+    "windows": "T",
+    "macOS": "T",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Merge HDR dialog",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Set image rating to 0",
+    "windows": "0",
+    "macOS": "0",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Image rating and label",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Set image rating to 1",
+    "windows": "1",
+    "macOS": "1",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Image rating and label",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Set image rating to 2",
+    "windows": "2",
+    "macOS": "2",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Image rating and label",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Set image rating to 3",
+    "windows": "3",
+    "macOS": "3",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Image rating and label",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Set image rating to 4",
+    "windows": "4",
+    "macOS": "4",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Image rating and label",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Set image rating to 5",
+    "windows": "5",
+    "macOS": "5",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Image rating and label",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Decrease image rating",
+    "windows": "Control + (,)",
+    "macOS": "Command + (,)",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Image rating and label",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Increase image rating",
+    "windows": "Control + (.)",
+    "macOS": "Command + (.)",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Image rating and label",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Toggle image rating",
+    "windows": "Control + (')",
+    "macOS": "Command + (')",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Image rating and label",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Set image label to red",
+    "windows": "6",
+    "macOS": "6",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Image rating and label",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Set image label to yellow",
+    "windows": "7",
+    "macOS": "7",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Image rating and label",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Set image label to green",
+    "windows": "8",
+    "macOS": "8",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Image rating and label",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Set image label to blue",
+    "windows": "9",
+    "macOS": "9",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Image rating and label",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Set image label to purple",
+    "windows": "Control + Shift + 0",
+    "macOS": "Command + Shift + 0",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Image rating and label",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Select next curve point",
+    "windows": "+",
+    "macOS": "+",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve and visible point",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Select previous curve point",
+    "windows": "-",
+    "macOS": "-",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve and visible point",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Select next point",
+    "windows": "Control + Tab",
+    "macOS": "Control + Tab",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve and visible point",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Select previous point",
+    "windows": "Control + Shift + Tab",
+    "macOS": "Control + Shift + Tab",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve and visible point",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Deselect curve point",
+    "windows": "D",
+    "macOS": "D",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve and visible point",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Big nudge grid finer",
+    "windows": "Shift + [",
+    "macOS": "Shift + [",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Grid Slider",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Big nudge grid coarser",
+    "windows": "Shift + ]",
+    "macOS": "Shift + ]",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Grid Slider",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Decrease current feather size",
+    "windows": "Shift + [",
+    "macOS": "Shift + [",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Masking Brush tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Increase current feather size",
+    "windows": "Shift + ]",
+    "macOS": "Shift + ]",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Masking Brush tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Decrease other brush size",
+    "windows": "Alt + [",
+    "macOS": "Option + [",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Masking Brush tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Increase other brush size",
+    "windows": "Alt + ]",
+    "macOS": "Option + ]",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Masking Brush tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Decrease other brush feather size",
+    "windows": "Alt + Shift + [",
+    "macOS": "Option + Shift + [",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Masking Brush tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Increase other brush feather size",
+    "windows": "Alt + Shift + ]",
+    "macOS": "Option + Shift + ]",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Masking Brush tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Decrease other brush's flow",
+    "windows": "Alt + (-)",
+    "macOS": "Option + (-)",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Masking Brush tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Increase other brush's flow",
+    "windows": "Alt + (+)",
+    "macOS": "Option + (+)",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Masking Brush tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Set density to 10",
+    "windows": "1",
+    "macOS": "1",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Masking Brush tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Set density to 20",
+    "windows": "2",
+    "macOS": "2",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Masking Brush tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Set density to 30",
+    "windows": "3",
+    "macOS": "3",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Masking Brush tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Set density to 40",
+    "windows": "4",
+    "macOS": "4",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Masking Brush tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Set density to 50",
+    "windows": "5",
+    "macOS": "5",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Masking Brush tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Set density to 60",
+    "windows": "6",
+    "macOS": "6",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Masking Brush tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Set density to 70",
+    "windows": "7",
+    "macOS": "7",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Masking Brush tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Set density to 80",
+    "windows": "8",
+    "macOS": "8",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Masking Brush tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Set density to 90",
+    "windows": "9",
+    "macOS": "9",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Masking Brush tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Set density to 100",
+    "windows": "0",
+    "macOS": "0",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Masking Brush tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Reset local correction channels",
+    "windows": "Control + Alt + R",
+    "macOS": "Command + Option + R",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Masking Brush tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Navigate to the previous or next photo in Healing mode",
+    "windows": "Control + Arrow keys",
+    "macOS": "Command + Arrow keys",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Masking Brush tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Decrease spot vis threshold",
+    "windows": ",",
+    "macOS": ",",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Visualize spots",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Increase spot vis threshold",
+    "windows": ".",
+    "macOS": ".",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Visualize spots",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Decrease spot vis threshold (big)",
+    "windows": "Shift + (,)",
+    "macOS": "Shift + (,)",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Visualize spots",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Increase spot vis threshold (big)",
+    "windows": "Shift + (.)",
+    "macOS": "Shift + (.)",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Visualize spots",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Pick Light panel",
+    "windows": "Control + 1",
+    "macOS": "Command + 1",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Edit panels",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Pick Color panel",
+    "windows": "Control + 2",
+    "macOS": "Command + 2",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Edit panels",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Pick Effects panel",
+    "windows": "Control + 3",
+    "macOS": "Command + 3",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Edit panels",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Pick Curve panel",
+    "windows": "Control + 4",
+    "macOS": "Command + 4",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Edit panels",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Pick Color Mixer panel",
+    "windows": "Control + 5",
+    "macOS": "Command + 5",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Edit panels",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Pick Color Grading panel",
+    "windows": "Control + 6",
+    "macOS": "Command + 6",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Edit panels",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Pick Detail panel",
+    "windows": "Control + 7",
+    "macOS": "Command + 7",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Edit panels",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Pick Optics panel",
+    "windows": "Control + 8",
+    "macOS": "Command + 8",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Edit panels",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Pick Lens Blur panel",
+    "windows": "Control + 9",
+    "macOS": "Command + 9",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Edit panels",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Choose Lens Corrections Profile tab",
+    "windows": "Alt + 1",
+    "macOS": "Option + 1",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Lens Corrections panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Choose Lens Corrections Manual tab",
+    "windows": "Alt + 2",
+    "macOS": "Option + 2",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Lens Corrections panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Choose point curve standard",
+    "windows": "Alt + 1",
+    "macOS": "Option + 1",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Choose point curve red",
+    "windows": "Alt + 2",
+    "macOS": "Option + 2",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Choose point curve green",
+    "windows": "Alt + 3",
+    "macOS": "Option + 3",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Choose point curve blue",
+    "windows": "Alt + 4",
+    "macOS": "Option + 4",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Select next point curve channel",
+    "windows": "Alt + (+)",
+    "macOS": "Option + (+)",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Select previous point curve channel",
+    "windows": "Alt + (-)",
+    "macOS": "Option + (-)",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Select next point to the right",
+    "windows": "+",
+    "macOS": "+",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Select next point to the left",
+    "windows": "- (minus)",
+    "macOS": "- (minus)",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Select next point to the right",
+    "windows": "Ctrl + Tab",
+    "macOS": "Ctrl + Tab",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Select next point to the left",
+    "windows": "Ctrl + Shift + Tab",
+    "macOS": "Ctrl + Shift + Tab",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Deselect Point Curve",
+    "windows": "D",
+    "macOS": "D",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Increase input value for selected point by one point",
+    "windows": "Right arrow",
+    "macOS": "Right arrow",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Decrease input value for selected point by one point",
+    "windows": "Left arrow",
+    "macOS": "Left arrow",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Increase output value for selected point by one point",
+    "windows": "Up arrow",
+    "macOS": "Up arrow",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Decrease output value for selected point by one point",
+    "windows": "Down arrow",
+    "macOS": "Down arrow",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Increase input value for selected point by 10 points",
+    "windows": "Shift+Right Arrow",
+    "macOS": "Shift+Right Arrow",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Decrease input value for selected point by 10 points",
+    "windows": "Shift+Left Arrow",
+    "macOS": "Shift+Left Arrow",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Increase output value for selected point by 10 points",
+    "windows": "Shift+Up Arrow",
+    "macOS": "Shift+Up Arrow",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Decrease output value for selected point by 10 points",
+    "windows": "Shift+Down Arrow",
+    "macOS": "Shift+Down Arrow",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Point Curve panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Reset crop",
+    "windows": "Control + Alt + R",
+    "macOS": "Command + Option + R",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Crop panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Cycle crop overlay",
+    "windows": "Alt + V",
+    "macOS": "Option + V",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Crop panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Cycle crop overlay orientation",
+    "windows": "Shift + V",
+    "macOS": "Shift + v",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Crop panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Toggle Constrain Aspect Ratio",
+    "windows": "Alt + A",
+    "macOS": "Option + A",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Crop panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Select previous or next image in the filmstrip",
+    "windows": "Control + Arrow keys",
+    "macOS": "Command + Arrow keys",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Crop panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Switch between Full and locked",
+    "windows": "X",
+    "macOS": "X",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Crop panel",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Pick Targeted Adjustment Tool",
+    "windows": "Control + Alt + Shift + T",
+    "macOS": "Command + Option + Shift + T",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Targeted Adjustment Tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Pick Targeted Adjustment Tool point",
+    "windows": "Control + Alt + Shift + P",
+    "macOS": "Command + Option + Shift + P",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Targeted Adjustment Tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Pick Targeted Adjustment Tool hue",
+    "windows": "Control + Alt + Shift + H",
+    "macOS": "Command + Option + Shift + H",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Targeted Adjustment Tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Pick Targeted Adjustment Tool saturation",
+    "windows": "Control + Alt + Shift + S",
+    "macOS": "Command + Option + Shift + S",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Targeted Adjustment Tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Pick Targeted Adjustment Tool luminance",
+    "windows": "Control + Alt + Shift + L",
+    "macOS": "Command + Option + Shift + L",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Targeted Adjustment Tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Pick Targeted Adjustment Tool grayscale mix",
+    "windows": "Control + Alt + Shift + G",
+    "macOS": "Command + Option + Shift + G",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Targeted Adjustment Tool",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Exit Slideshow",
+    "windows": "Esc",
+    "macOS": "Esc",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Full-screen Presentation",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Go to the next photo",
+    "windows": "Spacebar, Return, right arrow, and down arrow",
+    "macOS": "Spacebar, Return, right arrow, down arrow",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Full-screen Presentation",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Go to the previous photo",
+    "windows": "Left arrow and up arrow",
+    "macOS": "Left arrow and up arrow",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Full-screen Presentation",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Assign that star rating to the current photo",
+    "windows": "0, 1, 2, 3, 4, 5",
+    "macOS": "0, 1, 2, 3, 4, 5",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Full-screen Presentation",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Switch to Matte",
+    "windows": "M",
+    "macOS": "M",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Full-screen Presentation",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Switch to Fit to Screen",
+    "windows": "F",
+    "macOS": "F",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Full-screen Presentation",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Switch to Show Info Overlay",
+    "windows": "I",
+    "macOS": "I",
+    "context": "Camera Raw",
+    "note": "Camera Raw — Full-screen Presentation",
+    "source": "Adobe Camera Raw current keyboard reference",
+    "page": null
+  },
+  {
+    "action": "Frame tool",
+    "windows": "K",
+    "macOS": "K",
+    "context": "Tools",
+    "note": "",
+    "source": "Adobe Frame tool documentation",
+    "page": null
+  },
+  {
+    "action": "Quick Selection tool",
+    "windows": "W",
+    "macOS": "W",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask. W is shared by Quick Selection and Object Selection.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Object Selection tool",
+    "windows": "W",
+    "macOS": "W",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask. W is shared by Quick Selection and Object Selection.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Refine Edge Brush tool",
+    "windows": "R",
+    "macOS": "R",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Brush tool",
+    "windows": "B",
+    "macOS": "B",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Lasso tool",
+    "windows": "L",
+    "macOS": "L",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Hand tool",
+    "windows": "H",
+    "macOS": "H",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Zoom tool",
+    "windows": "Z",
+    "macOS": "Z",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "View: Onion Skin",
+    "windows": "O",
+    "macOS": "O",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask; changes the preview only.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "View: Marching Ants",
+    "windows": "M",
+    "macOS": "M",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask; changes the preview only.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "View: Overlay",
+    "windows": "V",
+    "macOS": "V",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask; changes the preview only.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "View: On Black",
+    "windows": "A",
+    "macOS": "A",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask; changes the preview only.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "View: On White",
+    "windows": "T",
+    "macOS": "T",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask; changes the preview only.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "View: Black and White",
+    "windows": "K",
+    "macOS": "K",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask; changes the preview only.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "View: On Layers",
+    "windows": "Y",
+    "macOS": "Y",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask; changes the preview only.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Show refinement edge",
+    "windows": "J",
+    "macOS": "J",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Show original selection",
+    "windows": "P",
+    "macOS": "P",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Next preview mode",
+    "windows": "F",
+    "macOS": "F",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask.",
+    "source": "https://helpx.adobe.com/photoshop/desktop/make-selections/refine-modify-selections/refine-your-selection-and-mask.html",
+    "page": null
+  },
+  {
+    "action": "Previous preview mode",
+    "windows": "Shift + F",
+    "macOS": "Shift + F",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Temporarily hide preview mode",
+    "windows": "Hold X",
+    "macOS": "Hold X",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask.",
+    "source": "https://helpx.adobe.com/photoshop/desktop/make-selections/refine-modify-selections/refine-your-selection-and-mask.html",
+    "page": null
+  },
+  {
+    "action": "Smaller mask brush",
+    "windows": "[",
+    "macOS": "[",
+    "context": "Select and Mask",
+    "note": "With a brush active in Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Larger mask brush",
+    "windows": "]",
+    "macOS": "]",
+    "context": "Select and Mask",
+    "note": "With a brush active in Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Temporarily switch selection add/subtract",
+    "windows": "Hold Alt",
+    "macOS": "Hold Option",
+    "context": "Select and Mask",
+    "note": "Quick Selection, Brush or Lasso inside Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Restore selection with Refine Edge Brush",
+    "windows": "Hold Alt",
+    "macOS": "Hold Option",
+    "context": "Select and Mask",
+    "note": "Temporarily changes the Refine Edge Brush to restore the original selection.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Intersect using Lasso",
+    "windows": "Hold Shift + Alt",
+    "macOS": "Hold Shift + Option",
+    "context": "Select and Mask",
+    "note": "With Lasso active inside Select and Mask.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Resize mask brush by dragging",
+    "windows": "Alt + right-drag horizontally",
+    "macOS": "Control + Option + drag horizontally",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask. Mac uses Control, not Command.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Adjust mask brush hardness by dragging",
+    "windows": "Alt + right-drag vertically",
+    "macOS": "Control + Option + drag vertically",
+    "context": "Select and Mask",
+    "note": "Inside Select and Mask. Mac uses Control, not Command.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Connect mask brush strokes",
+    "windows": "Shift-click",
+    "macOS": "Shift-click",
+    "context": "Select and Mask",
+    "note": "With Brush active inside Select and Mask; connects the previous point to the click.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Hand tool",
+    "windows": "H",
+    "macOS": "H",
+    "context": "Liquify",
+    "note": "Inside the Liquify filter.",
+    "source": "https://jkost.com/blog/2014/07/using-liquify-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Zoom tool",
+    "windows": "Z",
+    "macOS": "Z",
+    "context": "Liquify",
+    "note": "Inside the Liquify filter.",
+    "source": "https://jkost.com/blog/2014/07/using-liquify-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Resize Liquify brush by dragging",
+    "windows": "Alt + right-drag",
+    "macOS": "Control + Option + drag",
+    "context": "Liquify",
+    "note": "Inside Liquify. Mac uses Control, not Command.",
+    "source": "https://jkost.com/blog/2014/07/using-liquify-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Temporarily reverse twirl",
+    "windows": "Hold Alt",
+    "macOS": "Hold Option",
+    "context": "Liquify",
+    "note": "With Twirl active in Liquify.",
+    "source": "https://jkost.com/blog/2014/07/using-liquify-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Temporarily swap pucker and bloat",
+    "windows": "Hold Alt",
+    "macOS": "Hold Option",
+    "context": "Liquify",
+    "note": "With Pucker or Bloat active in Liquify.",
+    "source": "https://jkost.com/blog/2014/07/using-liquify-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Temporarily swap freeze and thaw masks",
+    "windows": "Hold Alt",
+    "macOS": "Hold Option",
+    "context": "Liquify",
+    "note": "With Freeze Mask or Thaw Mask active in Liquify.",
+    "source": "https://jkost.com/blog/2014/07/using-liquify-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Smaller Liquify brush",
+    "windows": "[",
+    "macOS": "[",
+    "context": "Liquify",
+    "note": "Inside Liquify with a brush tool active.",
+    "source": "https://jkost.com/blog/2014/07/using-liquify-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Larger Liquify brush",
+    "windows": "]",
+    "macOS": "]",
+    "context": "Liquify",
+    "note": "Inside Liquify with a brush tool active.",
+    "source": "https://jkost.com/blog/2014/07/using-liquify-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Swap crop width and height",
+    "windows": "X",
+    "macOS": "X",
+    "context": "Crop",
+    "note": "With the Crop tool active.",
+    "source": "https://jkost.com/blog/2017/05/essential-tips-for-cropping-in-photoshop-cc.html",
+    "page": null
+  },
+  {
+    "action": "Next crop overlay",
+    "windows": "O",
+    "macOS": "O",
+    "context": "Crop",
+    "note": "While adjusting the crop marquee.",
+    "source": "https://jkost.com/blog/2017/05/essential-tips-for-cropping-in-photoshop-cc.html",
+    "page": null
+  },
+  {
+    "action": "Hide area outside crop",
+    "windows": "H",
+    "macOS": "H",
+    "context": "Crop",
+    "note": "While adjusting the crop marquee.",
+    "source": "https://jkost.com/blog/2017/05/essential-tips-for-cropping-in-photoshop-cc.html",
+    "page": null
+  },
+  {
+    "action": "Use active image crop dimensions",
+    "windows": "I",
+    "macOS": "I",
+    "context": "Crop",
+    "note": "Adjust the crop marquee first; otherwise I selects Eyedropper.",
+    "source": "https://jkost.com/blog/2017/05/essential-tips-for-cropping-in-photoshop-cc.html",
+    "page": null
+  },
+  {
+    "action": "Toggle classic crop movement",
+    "windows": "P",
+    "macOS": "P",
+    "context": "Crop",
+    "note": "Adjust the crop marquee first; otherwise P selects Pen.",
+    "source": "https://jkost.com/blog/2017/05/essential-tips-for-cropping-in-photoshop-cc.html",
+    "page": null
+  },
+  {
+    "action": "Temporarily straighten crop",
+    "windows": "Hold Control",
+    "macOS": "Hold Command",
+    "context": "Crop",
+    "note": "With Crop active; drag along the line to straighten.",
+    "source": "https://jkost.com/blog/2017/05/essential-tips-for-cropping-in-photoshop-cc.html",
+    "page": null
+  },
+  {
+    "action": "Temporarily switch sampling add/subtract",
+    "windows": "Hold Alt",
+    "macOS": "Hold Option",
+    "context": "Content-Aware Fill",
+    "note": "With Sampling Brush active inside Content-Aware Fill.",
+    "source": "https://helpx.adobe.com/photoshop/desktop/repair-retouch/remove-objects-fill-space/tools-to-fine-tune-sampling-and-fill-areas.html",
+    "page": null
+  },
+  {
+    "action": "Cycle selection add/subtract",
+    "windows": "E",
+    "macOS": "E",
+    "context": "Content-Aware Fill",
+    "note": "With a selection refinement tool active inside Content-Aware Fill.",
+    "source": "https://helpx.adobe.com/photoshop/desktop/repair-retouch/remove-objects-fill-space/tools-to-fine-tune-sampling-and-fill-areas.html",
+    "page": null
+  },
+  {
+    "action": "Temporarily pan the fill workspace",
+    "windows": "Hold Spacebar",
+    "macOS": "Hold Spacebar",
+    "context": "Content-Aware Fill",
+    "note": "Inside Content-Aware Fill while another tool is active.",
+    "source": "https://helpx.adobe.com/photoshop/desktop/repair-retouch/remove-objects-fill-space/tools-to-fine-tune-sampling-and-fill-areas.html",
+    "page": null
+  },
+  {
+    "action": "Load image luminosity as selection",
+    "windows": "Control + Alt + 2",
+    "macOS": "Command + Option + 2",
+    "context": "Selections",
+    "note": "Loads the composite luminosity as a selection.",
+    "source": "https://jkost.com/blog/2021/07/25-shortcuts-and-tips-for-creating-better-selections-in-photoshop.html",
+    "page": null
+  },
+  {
+    "action": "Apply pending Remove tool strokes",
+    "windows": "Enter",
+    "macOS": "Return",
+    "context": "Painting",
+    "note": "Remove tool: turn off Remove after each stroke, paint the areas, then apply.",
+    "source": "https://www.adobe.com/max/2024/sessions/master-photoshop-2025-exploring-features-s6703.html",
+    "page": null
+  }
+]
